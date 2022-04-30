@@ -20,8 +20,7 @@ comments: true
 
 ### Please email me your CV if interested in joining the group. See the [contact](https://nanophotonicenglab.github.io/Contact/) page for further details.
 
-* Home/EU students may receive support from the Research Councils or by funds provided by the University in partnership with other sponsors, typically from industry. 
-* Available PhD studentships will be advertised [here](https://nanophotonicenglab.github.io/News/) and also on [FindAPhD](https://www.findaphd.com/phds/faculty-of-engineering-and-environment/?c00J0Ca0).
+* All available PhD studentships will be advertised on the [News](https://nanophotonicenglab.github.io/News/) page and also on [FindAPhD](https://www.findaphd.com/phds/faculty-of-engineering-and-environment/?c00J0Ca0).
 * See here for further information regarding [postgraduate study](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/how-to-apply/) and [opportunities at Northumbria](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/studentships).
   
 <!--<p align="center">
