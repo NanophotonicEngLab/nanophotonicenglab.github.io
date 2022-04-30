@@ -21,7 +21,9 @@ comments: true
 ### Please email me your CV if interested in joining the group. See the [contact](https://nanophotonicenglab.github.io/Contact/) page for further details.
 
 * All available PhD studentships will be advertised on the [News](https://nanophotonicenglab.github.io/News/) page and also on [FindAPhD](https://www.findaphd.com/phds/faculty-of-engineering-and-environment/?c00J0Ca0).
-* See here for further information regarding [postgraduate study](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/how-to-apply/) and [opportunities at Northumbria](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/studentships).
+* For further details of entry requirements and the application form, see [how to apply](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/how-to-apply/), and [100 PhD Studentships at Northumbria](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/studentships).
+  
+  
   
 <!--<p align="center">
   <b>Some Links:</b><br>
