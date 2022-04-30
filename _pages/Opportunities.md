@@ -8,9 +8,8 @@ author_profile: true
 comments: true
 ---
 ## <p align="center"> Post-Doc Positions
-### Funded positions will be advertised on jobs.ac.uk. I welcome speculative enquiries from outstanding individuals and can provide assistance and mentoring with fellowship applications.<br>
-
-### Representative schemes include:
+### All funded positions will be advertised on [jobs.ac.uk](https://www.jobs.ac.uk/search/employer/northumbria-university). I also welcome fellowship applications from outstanding individuals on a speculative basis. Please see the fllowing speculative fellowship schemes:<br>  
+  
 * [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (European Commission)<br>
 * [Early Career Fellowships](http://www.leverhulme.ac.uk/funding/ECF/ECF.cfm) (Leverhulme Trust)<br>
 * [Newton International Fellowships](https://royalsociety.org/grants/schemes/newton-international/) (Royal Society)<br>
