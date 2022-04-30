@@ -14,7 +14,9 @@ main:
     url: /Publications/
   - title: "Resources"
     url: /Resources/
-  - title: "Contact"
+  - title: "Opportunities"
+    url: /Opportunities/
+   - title: "Contact"
     url: /Contact/
     
 docs:
