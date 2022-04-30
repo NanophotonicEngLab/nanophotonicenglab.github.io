@@ -1,23 +1,30 @@
 ---
-title:  "Contact"
-layout: single
-permalink: /Contact/
+title:  "Opportunities"
+#layout: archive
+#layout: collection
+layout: splash
+permalink: /Opportunities/
 author_profile: true
 comments: true
 ---
-<p align="center">
-<!--For any enquiries please contact us via email:<br>-->
-<!--<a href = "mailto: daniel.ho@northumbria.ac.uk">daniel.ho@northumbria.ac.uk</a>-->
-Northumbria University<br>
-Ellison Building<br>
-Newcastle upon Tyne<br>
-NE1 8ST<br>
-<a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<br><br>
-<b><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.8042454551874!2d-1.6095146847253468!3d54.97653198035289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70c899674609%3A0x3f8872b306b7254b!2sEllison%20Building!5e0!3m2!1sen!2suk!4v1645638431738!5m2!1sen!2suk" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br>
-</p>
+## <p align="center"> Post-Doc Positions
+### Funded positions will be advertised on jobs.ac.uk. I welcome speculative enquiries from outstanding individuals and can provide assistance and mentoring with fellowship applications.<br>
 
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.8042454551874!2d-1.6095146847253468!3d54.97653198035289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70c899674609%3A0x3f8872b306b7254b!2sEllison%20Building!5e0!3m2!1sen!2suk!4v1645638431738!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>-->
+### Representative schemes include:
+* [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (European Commission)<br>
+* [Early Career Fellowships](http://www.leverhulme.ac.uk/funding/ECF/ECF.cfm) (Leverhulme Trust)<br>
+* [Newton International Fellowships](https://royalsociety.org/grants/schemes/newton-international/) (Royal Society)<br>
+* [Enterprise Fellowships](https://www.raeng.org.uk/grants-prizes/grants/enterprise-hub-support-for-entrepreneurs/enterprise-fellowshipsh) (Royal Academy of Engineering)<br>
+* [Commonwealth Scholarship](http://cscuk.dfid.gov.uk/apply/)<br>
 
+## <p align="center"> PhD Opportunities
+
+### Please email me your CV if interested in joining the group. See the [contact](https://nanophotonicenglab.github.io/Contact/) page for further details.
+
+* Home/EU students may receive support from the Research Councils or by funds provided by the University in partnership with other sponsors, typically from industry. 
+* Available PhD studentships will be advertised [here]({% link _pages/news.md %}) and also on [FindAPhD](https://www.findaphd.com/phds/faculty-of-engineering-and-environment/?c00J0Ca0).
+* See here for further information regarding [postgraduate study](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/how-to-apply/) and [opportunities at Northumbria](https://www.northumbria.ac.uk/research/postgraduate-research-degrees/studentships).
+  
 <!--<p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
