@@ -1,8 +1,7 @@
 ---
 title:  "Opportunities"
-#layout: archive
-#layout: collection
 layout: splash
+#layout: tags
 permalink: /Opportunities/
 author_profile: true
 comments: true
