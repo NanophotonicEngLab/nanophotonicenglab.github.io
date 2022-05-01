@@ -9,7 +9,11 @@ author_profile: true
 ## Principal Investigator 
 
 <p align="center">
-  <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
+<!--  
+<img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
+  <a href="https://nanophotonicenglab.github.io/Y-L-Daniel-Ho/"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
+ -->
+  <a href="{% link _pages/Y-L-Daniel-Ho.md %}"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
   <br><br><br><br><br> 
 </p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
@@ -26,7 +30,10 @@ author_profile: true
 ## Research Fellows 
 
 <p align="center">
+<!--   
   <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
+ -->  
+  <a href="{% link _pages/Mike-P-C-Taverne.md %}"><img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/></a> 
   <br><br><br><br><br>
 </p>
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
