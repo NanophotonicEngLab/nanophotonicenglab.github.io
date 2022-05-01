@@ -13,7 +13,7 @@ comments: true
 * [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (European Commission)<br>
 * [Early Career Fellowships](http://www.leverhulme.ac.uk/funding/ECF/ECF.cfm) (Leverhulme Trust)<br>
 * [Newton International Fellowships](https://royalsociety.org/grants/schemes/newton-international/) (Royal Society)<br>
-* [Enterprise Fellowships](https://www.raeng.org.uk/grants-prizes/grants/enterprise-hub-support-for-entrepreneurs/enterprise-fellowshipsh) (Royal Academy of Engineering)<br>
+* [Enterprise Fellowships](hhttps://www.raeng.org.uk/grants-prizes/grants/enterprise-hub-support-for-entrepreneurs/enterprise-fellowships) (Royal Academy of Engineering)<br>
 * [Commonwealth Scholarship](http://cscuk.dfid.gov.uk/apply/)<br>
 
 <!--## <p align="center"> PhD Opportunities-->
