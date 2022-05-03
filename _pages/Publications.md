@@ -7,8 +7,9 @@ permalink: /Publications/
 author_profile: true
 comments: true
 ---
+<br>
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 10%; border: none; text-decoration: none"/>
+  <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 15%; border: none; text-decoration: none"/>
 </p>
 <!--<a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 15%; border: none; text-decoration: none"/>--> 
 
