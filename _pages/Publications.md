@@ -7,8 +7,10 @@ permalink: /Publications/
 author_profile: true
 comments: true
 ---
-
-<a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 15%; border: none; text-decoration: none"/> 
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 10%; border: none; text-decoration: none"/>
+</p>
+<!--<a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 15%; border: none; text-decoration: none"/>--> 
 
 1. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
 2. M. Hunt, M. P. C. Taverne, J. Askey, A. May, A. Van Den Berg, Y.-L. D. Ho, J. G. Rarity, and S. Ladak, [“Harnessing Multi-Photon Absorption to Produce Three-Dimensional Magnetic Structures at the Nanoscale,”](https://doi.org/10.3390/ma13030761), Materials 13, 3,761 (2020).
@@ -48,3 +50,7 @@ comments: true
 39.	T. Cao, M. J. Cryan, P. S. Ivanov, Y.-L. D. Ho, G. B. Ren, I. J. Craddock, J. M. Rorison and C. J. Railton, [“Modelling of Chirped Pulse Propagation Through a Mini-Stop Band in a 2D Photonic Crystal Waveguide”,](https://doi.org/10.1364/JOSAB.24.001575) J. Opt. Soc. Am. B 24, 1575–1583 (2007). 
 40.	T. Cao, M. J. Cryan, Y.-L. D. Ho, I. J. Craddock, and C. J. Railton, [“Fast-Light Based Pulse Compression In 2D Photonic Crystal Waveguides”,](https://doi.org/10.1109/JLT.2007.903825) IEEE J. Lightw. Technol. 25, 2590-2598 (2007). 
 41.	Y.-L. D. Ho*, T. Cao, P. S. Ivanov, M. J. Cryan, I. J. Craddock, C. J. Railton, and J. G. Rarity, [“Optimal design of single-photon sources emission from a quantum-dot in micro-pillar microcavity”](https://doi.org/10.1142/S0219749905001419), Int. J. Quant. Inf. 3, 229 (2005).
+  
+  
+  
+
