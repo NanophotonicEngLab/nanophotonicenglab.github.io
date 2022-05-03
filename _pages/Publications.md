@@ -7,7 +7,7 @@ permalink: /Publications/
 author_profile: true
 comments: true
 ---
-
+<p align="center">
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 10%; border: none; text-decoration: none"/></a> 
 
 1. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
