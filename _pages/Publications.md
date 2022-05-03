@@ -7,15 +7,10 @@ permalink: /Publications/
 author_profile: true
 comments: true
 ---
-
-<br>
- 
-<p align="center">
+## Research Publications
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ">
-  <b>Research Publications</b>
-  <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 15%; border: none; text-decoration: none"/>
-</p>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 15%; border: none; text-decoration: none"/>
+<br>
 
 1. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
 2. M. Hunt, M. P. C. Taverne, J. Askey, A. May, A. Van Den Berg, Y.-L. D. Ho, J. G. Rarity, and S. Ladak, [“Harnessing Multi-Photon Absorption to Produce Three-Dimensional Magnetic Structures at the Nanoscale,”](https://doi.org/10.3390/ma13030761), Materials 13, 3,761 (2020).
