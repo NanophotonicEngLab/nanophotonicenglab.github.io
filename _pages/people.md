@@ -39,8 +39,8 @@ author_profile: true
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br> 
-  <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
-  <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
+  <a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
+  <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 &nbsp;
 &nbsp;
 &nbsp;
