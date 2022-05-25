@@ -9,6 +9,9 @@ author_profile: true
 ## Principal Investigator 
 
 <p align="center">
+<br>
+  
+<br>
 <!--  
 <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
   <a href="https://nanophotonicenglab.github.io/Y-L-Daniel-Ho/"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
@@ -30,6 +33,9 @@ author_profile: true
 ## Research Fellows 
 
 <p align="center">
+<br>
+  
+<br>
 <!--   
   <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
  -->  
@@ -48,6 +54,9 @@ author_profile: true
 ## PhD Students
 
 <p align="center">
+<br>
+  
+<br>
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
   <br><br><br><br><br>  
 </p>
