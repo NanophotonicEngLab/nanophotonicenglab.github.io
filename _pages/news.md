@@ -8,7 +8,8 @@ author_profile: true
 ---
 ## Latest News 
 * 21-03-2022 Our Royal Society Research Grant to fund equipment has just been granted, which is for a heated microscope stage to characterise materials properties of solar thermal absorbers.
-* 01-03-2022 NEL welcomes its new PhD student:  Miss Nadira Hameed. 23-02-2022 Check out our latest publication on [*Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals*](https://doi.org/10.3390/cryst12030303).
+* 01-03-2022 NEL welcomes its new PhD student:  Miss Nadira Hameed. 
+* 22-02-2022 Check out our latest publication on [*Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals*](https://doi.org/10.3390/cryst12030303).
 * 22-09-2021 NEL has a fully funded PhD position available to study [*Artificially Nano-structured Materials for Three-dimensional Electrodes and Catalysts*](https://www.findaphd.com/phds/project/design-of-artificially-nano-structured-materials-for-three-dimensional-electrodes-and-catalysts-advert-reference-fac21-ee-mpee-hodaniel/?p133766).
 * 01-09-2021 NEL welcomes its new member:  [*Dr. Mike Taverne*](https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne/). 
 * 04-06-2021 NEL has a Research Fellow position available in [*Experimental Nanophotonics*](https://www.jobs.ac.uk/job/CGK693/research-fellow-in-experimental-nanophotonics).
