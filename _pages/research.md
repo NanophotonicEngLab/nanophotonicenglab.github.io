@@ -16,4 +16,4 @@ Research directions:
   * [Optical Microcavites and Cavity Quantum Electrodynamics]({% link _pages/Research/research6.md %})
 * Nano/Micro-Structured Materials for Energy Applications:
   * [Solar-thermal absorbers]({% link _pages/Research/research4.md %})
-  * [Hydrogen fuel cells]({% link _pages/Research/research5.md %})
+  * [3D Architectured Hybrid Materials for Electrodes and Catalysts]({% link _pages/Research/research5.md %})
