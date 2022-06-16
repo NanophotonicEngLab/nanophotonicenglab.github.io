@@ -1,7 +1,7 @@
 ---
 title: "Optical Microcavites and Cavity Quantum Electrodynamics"
 layout: collection
-permalink: /Nanophotonics/Optical-microcavites-and-cavity-quantum-electrodynamic/
+permalink: /Nanophotonics/Optical-microcavites-and-cavity-quantum-electrodynamics/
 author_profile: true
 sidebar:
   nav: "docs"
