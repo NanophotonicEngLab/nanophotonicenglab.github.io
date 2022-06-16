@@ -1,7 +1,7 @@
 ---
-title: "Hydrogen fuel cells"
+title: "3D Architectured Hybrid Materials for Electrodes and Catalysts"
 layout: collection
-permalink: /energy-applications/Hydrogen-fuel-cells/
+permalink: /energy-applications/3D Architectured Hybrid Materials for Electrodes and Catalysts/
 author_profile: true
 sidebar:
   nav: "docs"
