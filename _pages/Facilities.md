@@ -18,5 +18,6 @@ sidebar:
    * Spectrometers:
        * HR4PRO-VIS-NIR-ES
        * NANOQ-2.5
-
+   * Microscope Heating and Cooling Stages:
+       * Linkam TS1000EV high temperature heating stages with internal electrical contacts & vacuum ports.
    
