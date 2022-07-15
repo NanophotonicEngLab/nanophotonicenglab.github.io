@@ -35,8 +35,8 @@ docs:
     children:
       - title: "Solar-thermal absorbers"
         url: /energy-applications/Solar-thermal-absorbers/
-      - title: "Hydrogen fuel cells"
-        url: /energy-applications/Hydrogen-fuel-cells/
+      - title: "3D Architectured Hybrid Materials for Electrodes and Catalysts"
+        url: /energy-applications/3D_Architectured_Hybrid_Materials_for_Electrodes_and_Catalysts/
 
 facilities:
   - title: "Fourier Image Spectroscopy"
