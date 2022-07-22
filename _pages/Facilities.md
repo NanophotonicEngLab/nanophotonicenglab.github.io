@@ -17,7 +17,7 @@ sidebar:
     * gem 532 – Solid State Continuous Wave Laser
    * Spectrometers:
        * HR4PRO-VIS-NIR-ES
-       * NANOQ-2.5
+       * NANOQ-2.5 (NanoQuest - MEMS-Based FT-IR Sensor)
    * Microscope Heating and Cooling Stages:
        * Linkam TS1000EV high temperature heating stages with internal electrical contacts & vacuum ports.
    
