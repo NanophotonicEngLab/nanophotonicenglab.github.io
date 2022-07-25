@@ -13,4 +13,5 @@ sidebar:
 
 *PGR Supervision:*
 
-[Miss Nadira Meethale Palakkool](https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool) - Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs Start Date: 01/03/2022
+[Miss Nadira Meethale Palakkool](https://www.linkedin.com/in/nadira-hameed94/) 
+* Title: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs Start Date: 01/03/2022
