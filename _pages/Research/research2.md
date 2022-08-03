@@ -17,6 +17,11 @@ sidebar:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/research2.png" alt="">
 
+*PGR Supervision:*
+
+[Mr Yu-Shao Jacky Chen]
+* Title: Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
+
 *Funding:*
 
 1. 3D Nanophotonics in Artificially Structured Chalcogenide Materials (EPSRC New Investigator Award) – PI: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/V040030/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1), value (£): 379,763, 01/09/2021 – 31/08/2024.
