@@ -67,7 +67,6 @@ author_profile: true
 </p>
 &nbsp;Mr Yu-Shao Jacky Chen
 &nbsp;<ag19934@bristol.ac.uk><br> 
-<!--  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> -->
 &nbsp;
 &nbsp;
 &nbsp;
