@@ -65,7 +65,7 @@ author_profile: true
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 150px"/>
   <br><br><br><br><br>  
 </p>
-&nbsp;Mr Yu-Shao Jacky Chen
+&nbsp;Mr Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
 &nbsp;
 &nbsp;
