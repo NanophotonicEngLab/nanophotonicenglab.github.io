@@ -14,4 +14,4 @@ sidebar:
 *PGR Supervision:*
 
 [Miss Nadira Meethale Palakkool](https://www.linkedin.com/in/nadira-hameed94/) 
-* Title: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs Start Date: 01/03/2022
+* Title: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
