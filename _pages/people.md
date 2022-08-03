@@ -59,6 +59,19 @@ author_profile: true
 &nbsp;
 &nbsp;
 
+## External PhD Students
+
+<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 150px"/>
+  <br><br><br><br><br>  
+</p>
+&nbsp;Mr Yu-Shao Jacky Chen
+&nbsp;<ag19934@bristol.ac.uk><br> 
+<!--  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> -->
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## Project students
 
 <!--
