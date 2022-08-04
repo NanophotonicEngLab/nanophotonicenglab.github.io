@@ -19,7 +19,7 @@ sidebar:
 
 *PGR Supervision:*
 
-[Mr Yu-Shao Jacky Chen]
+Mr Yu-Shao Jacky Chen
 * Title: Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
 
 *Funding:*
