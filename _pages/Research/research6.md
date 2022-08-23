@@ -27,3 +27,7 @@ Recently, 3D photonic crystal structures with complete photonic bandgaps (PBGs) 
 1. M. P. C. Taverne, Y.-L. D. Ho*, L.-F. Chen, X. Zheng, M. Lopez-Garcia, and J. G. Rarity, [“Modelling of Defect Cavities Formed in Inverse Three-Dimensional Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1209/0295-5075/116/64007), EPL (Europhys. Lett.) 116, 64007 (2017).
 4. M. P. C. Taverne*, Y.-L. D. Ho*, J. G. Rarity*, [“Investigation of defect cavities formed in three-dimensional woodpile photonic crystals”](https://doi.org/10.1364/JOSAB.32.000639), J. Opt. Soc. Am. B. 32, 639-648 (2015).
 5. Y.-L. D. Ho, P. S. Ivanov, E. Engin, M. F. J. Nicol, M.  P. C. Taverne,  Chengyong Hu,  M. J. Cryan, I. J. Craddock, C. J. Railton, J. G. Rarity, [“FDTD Simulation of Inverse Three-Dimensional Face-centered Cubic Photonic Crystal Cavities”](https://doi.org/10.1109/JQE.2011.2170404), IEEE J. Quantum Electron. 47, 1480–1492 (2011).
+
+*Collaborators:*
+
+* [Dr. Kevin Chung-Che Huang](https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang)
