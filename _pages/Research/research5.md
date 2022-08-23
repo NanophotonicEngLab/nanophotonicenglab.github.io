@@ -21,3 +21,7 @@ This project involves 3D phoamtonics (derived from the terms ‘foam’ and ‘p
 
 [Miss Nadira Meethale Palakkool](https://www.linkedin.com/in/nadira-hameed94/) 
 * Title: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
+
+*Collaborators:*
+
+* <https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang>
