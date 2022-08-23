@@ -26,5 +26,6 @@ The main objective of the proposed research is the realisation of novel architec
 
 *Collaborators:*
 
-* [Dr Marian Florescu](https://www.surrey.ac.uk/people/marian-florescu)
-* [Prof Martin Cryan](https://research-information.bris.ac.uk/en/persons/martin-j-cryan)
+* [Dr. Marian Florescu](https://www.surrey.ac.uk/people/marian-florescu)
+* [Prof. Martin Cryan](https://research-information.bris.ac.uk/en/persons/martin-j-cryan)
+* [Dr. Kevin Chung-Che Huang](https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang)
