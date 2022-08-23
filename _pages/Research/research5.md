@@ -24,4 +24,4 @@ This project involves 3D phoamtonics (derived from the terms ‘foam’ and ‘p
 
 *Collaborators:*
 
-* <https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang>
+* [Prof. John Rarity](https://royalsociety.org/people/john-rarity-12147/)
