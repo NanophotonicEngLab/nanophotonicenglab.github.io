@@ -29,5 +29,5 @@ Currently, the remaining grand challenge LCDs face in the display market is resp
 
 *Collaborators:*
 
-* <https://researchoutput.ncku.edu.tw/en/persons/chia-rong-lee>
-* <https://sites.google.com/gms.ndhu.edu.tw/ndhusmp>
+* [Prof. Chia-Rong Lee](https://researchoutput.ncku.edu.tw/en/persons/chia-rong-lee)
+* [Dr. Jia-De Lin](https://sites.google.com/gms.ndhu.edu.tw/ndhusmp
