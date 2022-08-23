@@ -24,3 +24,7 @@ The main objective of the proposed research is the realisation of novel architec
 
 1. *Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption* (Research Grants 2022 Round 1) – PI: Dr. Ying-Lung Daniel Ho, funded by the Royal Society, value (£): £19,954.36, 21/03/2022 – 20/03/2023.
 
+*Collaborators:*
+
+* [Dr Marian Florescu](https://www.surrey.ac.uk/people/marian-florescu)
+* [Prof Martin Cryan](https://research-information.bris.ac.uk/en/persons/martin-j-cryan)
