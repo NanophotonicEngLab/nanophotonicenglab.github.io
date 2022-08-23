@@ -30,4 +30,4 @@ Recently, 3D photonic crystal structures with complete photonic bandgaps (PBGs) 
 
 *Collaborators:*
 
-* [Dr. Kevin Chung-Che Huang](https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang)
+* [Prof. John Rarity](https://royalsociety.org/people/john-rarity-12147/)
