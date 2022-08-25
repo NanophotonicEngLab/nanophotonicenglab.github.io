@@ -56,13 +56,13 @@ author_profile: true
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <br>
-* PhD project: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
+* PhD project: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)<br>
 &nbsp;
 &nbsp;
 &nbsp;
 
 <!--## External PhD Students-->
-  <br><br>
+
 <p align="center">
    <img src="/assets/profiles/profile_im_YSJC.jpg" style="float: left;height: 150px"/>
   <br><br><br><br><br>  
