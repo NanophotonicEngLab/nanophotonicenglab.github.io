@@ -42,9 +42,10 @@ author_profile: true
 &nbsp;<mike.taverne@northumbria.ac.uk><br> 
   <a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
-&nbsp;
-&nbsp;
-&nbsp;
+  <br>
+Research projects:<br>  
+1. 3D Nanophotonics in Artificially Structured Chalcogenide Materials<br> 
+2. Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption
 
 ## PhD Students
 
@@ -55,8 +56,9 @@ author_profile: true
 &nbsp;Miss Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
-<br>
-&nbsp;* PhD project: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)<br>
+  <br>
+PhD project:<br>
+Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)<br>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -69,7 +71,8 @@ author_profile: true
 </p>
 &nbsp;Mr Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
-&nbsp;* PhD project: Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
+PhD project:<br>
+Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)<br>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -82,7 +85,9 @@ author_profile: true
 </p> 
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
-&nbsp;* Master's project: Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
+Master's project:<br>
+Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
+&nbsp;
 &nbsp;
 &nbsp;
 
