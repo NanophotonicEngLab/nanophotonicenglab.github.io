@@ -73,7 +73,7 @@ PhD project:<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
   <br>
 PhD project:<br>
-*  Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)<br>
+*  Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
 &nbsp;
 &nbsp;
 &nbsp;
