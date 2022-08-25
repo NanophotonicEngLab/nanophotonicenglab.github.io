@@ -26,3 +26,7 @@ Planck's assumption of electromagnetic energy quantization and Einstein's hypoth
 1. D. M. Whittaker, P. S. S. Guimaraes, D. Sanvitto, H. Vinck, S. Lam, A. Daraei, J. A. Timpson, A. M. Fox, M. S. Skolnick, Y.-L. D. Ho, J. G. Rarity, M. Hopkinson, and A. Tahraoui, [“High Q modes in elliptical microcavity pillars”](https://doi.org/10.1063/1.2722683), Appl. Phys. Lett. 90, 161105 (2007). (SCI, IF: 3.495)
 1. J. A. Timpson, S. Lam, D. Sanvitto, D. M. Whittaker, H. Vinck, A. Daraei, P. S. S. Guimaraes, M. S. Skolnick , A. M. Fox, C. Hu, Y.-L. D. Ho, R. Gibson, J. G. Rarity, A. Tahraoui, M. Hopkinson, P. W. Fry, S. Pellegrini, K. J. Gordon, R. E. Warburton, and G. S. Buller, [“Single photon sources based upon single quantum dots in semiconductor microcavity pillars”](https://doi.org/10.1080/09500340600785055), J. Mod. Opt., 54, 453–465 (2007).
 1. Y.-L. D. Ho*, T. Cao, P. S. Ivanov, M. J. Cryan, I. J. Craddock, C. J. Railton, and J. G. Rarity, [“Optimal design of single-photon sources emission from a quantum-dot in micro-pillar microcavity”](https://doi.org/10.1142/S0219749905001419), Int. J. Quant. Inf. 3, 229 (2005).
+
+*Collaborators:*
+
+* [Prof. John Rarity](https://royalsociety.org/people/john-rarity-12147/)
