@@ -58,7 +58,7 @@ Research projects:<br>
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br>
 PhD project:<br>
-Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)<br>
+Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
 &nbsp;
 &nbsp;
 &nbsp;
