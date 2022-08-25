@@ -63,7 +63,6 @@ author_profile: true
 
 <!--## External PhD Students-->
   <br><br>
-
 <p align="center">
    <img src="/assets/profiles/profile_im_YSJC.jpg" style="float: left;height: 150px"/>
   <br><br><br><br><br>  
