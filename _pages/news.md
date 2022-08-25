@@ -7,6 +7,7 @@ author_profile: true
 #comments: true
 ---
 ## Latest News 
+* 30-08-2022 Mike and Yu-Shao presented a paper and a poster at the Photon 2022 Conference in Nottingham, UK.
 * 21-03-2022 Our Royal Society Research Grant to fund equipment has just been granted, which is for a heated microscope stage to characterise materials properties of solar thermal absorbers.
 * 01-03-2022 NEL welcomes its new PhD student:  [*Miss Nadira Hameed*](https://www.linkedin.com/in/nadira-hameed94/). 
 * 22-02-2022 Check out our latest publication on [*Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals*](https://doi.org/10.3390/cryst12030303).
