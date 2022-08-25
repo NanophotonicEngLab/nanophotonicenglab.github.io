@@ -54,7 +54,9 @@ author_profile: true
 </p>
 &nbsp;Miss Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
-  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
+  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
+<br>
+* PhD project: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
 &nbsp;
 &nbsp;
 &nbsp;
@@ -67,6 +69,7 @@ author_profile: true
 </p>
 &nbsp;Mr Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
+* PhD project: Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
 &nbsp;
 &nbsp;
 &nbsp;
@@ -129,26 +132,6 @@ author_profile: true
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br>  
-</p>
-&nbsp;Mr Thomas Taylor<br>
-&nbsp;<tom4.taylor@northumbria.ac.uk><br>  
-&nbsp;
-&nbsp;
-&nbsp;
-
-<p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br><br><br>  
-</p> 
-&nbsp;Mr Kian Meadows<br>
-&nbsp;<kian.meadows@northumbria.ac.uk><br>  
-&nbsp;
-&nbsp;
-&nbsp;
-
-<p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br><br><br>  
 </p> 
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
@@ -156,6 +139,25 @@ author_profile: true
 &nbsp;
 &nbsp;
 
+<!--<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br><br><br>  
+</p>
+&nbsp;Mr Thomas Taylor<br>
+&nbsp;<tom4.taylor@northumbria.ac.uk><br>  
+&nbsp;
+&nbsp;
+&nbsp;-->
+
+<!--<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br><br><br>  
+</p> 
+&nbsp;Mr Kian Meadows<br>
+&nbsp;<kian.meadows@northumbria.ac.uk><br>  
+&nbsp;
+&nbsp;
+&nbsp;-->
 
  
 <!--<p align="center">
@@ -169,8 +171,6 @@ author_profile: true
   <img src="http://s.4cdn.org/image/title/105.gif">
   <img src="/assets/profiles/Daniel_Ho-1.png">
 </p>-->
-
-
 
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
 The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
