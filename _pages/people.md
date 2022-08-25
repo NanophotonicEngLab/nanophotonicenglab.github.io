@@ -56,12 +56,12 @@ author_profile: true
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <br>
-* PhD project: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)<br>
+&nbsp;* PhD project: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)<br>
 &nbsp;
 &nbsp;
 &nbsp;
 
-<!--## External PhD Students-->
+## <!--## External PhD Students-->
 
 <p align="center">
    <img src="/assets/profiles/profile_im_YSJC.jpg" style="float: left;height: 150px"/>
@@ -69,12 +69,22 @@ author_profile: true
 </p>
 &nbsp;Mr Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
-* PhD project: Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
+&nbsp;* PhD project: Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
 &nbsp;
 &nbsp;
 &nbsp;
 
-## Project students
+## Master's students
+
+<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br><br><br>  
+</p> 
+&nbsp;Mr Habib Awachi<br> 
+&nbsp;<habib.awachi@northumbria.ac.uk><br>     
+&nbsp;* Master's project: Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
+&nbsp;
+&nbsp;
 
 <!--
 <p align="center">
@@ -129,15 +139,6 @@ author_profile: true
 </p>
 -->
 
-<p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br><br><br>  
-</p> 
-&nbsp;Mr Habib Awachi<br> 
-&nbsp;<habib.awachi@northumbria.ac.uk><br>     
-&nbsp;
-&nbsp;
-&nbsp;
 
 <!--<p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
