@@ -44,8 +44,8 @@ author_profile: true
   <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <br><br>
 Research projects:<br>  
-1. 3D Nanophotonics in Artificially Structured Chalcogenide Materials<br> 
-2. Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption
+*  3D Nanophotonics in Artificially Structured Chalcogenide Materials<br> 
+*  Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption
 
 ## PhD Students
 
@@ -58,7 +58,7 @@ Research projects:<br>
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
 PhD project:<br>
-Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
+*  Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
 &nbsp;
 &nbsp;
 &nbsp;
@@ -73,7 +73,7 @@ Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs 
 &nbsp;<ag19934@bristol.ac.uk><br> 
   <br>
 PhD project:<br>
-Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)<br>
+*  Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)<br>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -87,7 +87,7 @@ Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)<br>
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 Master's project:<br>
-Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
+*  Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
 &nbsp;
 &nbsp;
 &nbsp;
