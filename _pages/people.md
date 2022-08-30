@@ -66,7 +66,7 @@ PhD project:<br>
 ## <!--## External PhD Students-->
 
 <p align="center">
-   <img src="/assets/profiles/profile_im_YSJC.jpg" style="float: left;height: 150px"/>
+   <img src="/assets/profiles/Yu-Shao Chen.png" style="float: left;height: 150px"/>
   <br><br><br><br><br>  
 </p>
 &nbsp;Mr Yu-Shao Jacky Chen<br>
