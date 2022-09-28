@@ -23,6 +23,7 @@ header:
 
 
 ## Latest News
+* 28-09-2022 Our joint research proposa [Catalyst Award (Academia Sinica of Taiwan - Healthy Longevity Grand Challenge Competition)](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) with the lead applicant Dr Yu-Sheng Lin from Southern Taiwan University of Science and technology has just been granted.
 * 30-08-2022 Mike and Yu-Shao presented the paper and poster at the Photon 2022 Conference in Nottingham, UK.
 * 21-03-2022 Our Royal Society Research Grant to fund equipment has just been granted, which is for a heated microscope stage to characterise materials properties of solar thermal absorbers.
 * 01-03-2022 NEL welcomes its new PhD student:  [*Miss Nadira Hameed*](https://www.linkedin.com/in/nadira-hameed94/). 
