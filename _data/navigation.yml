@@ -37,7 +37,12 @@ docs:
         url: /energy-applications/Solar-thermal-absorbers/
       - title: "3D Architectured Hybrid Materials for Electrodes and Catalysts"
         url: /energy-applications/3D_Architectured_Hybrid_Materials_for_Electrodes_and_Catalysts/
-
+        
+  - title: "Nano/Micro-Structured Materials for Mdeical Applications"
+    children:
+      - title: "Multi-Functional Materials for Smart Stents Sensing"
+        url: /medical-applications/Multi-Functional-Materials-for-Smart-Stents-Sensing/
+        
 facilities:
   - title: "Fourier Image Spectroscopy"
     url: /Facilities/FIS/
