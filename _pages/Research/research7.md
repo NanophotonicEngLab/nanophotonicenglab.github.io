@@ -1,7 +1,7 @@
 ---
 title: "Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing"
 layout: collection
-permalink: /energy-applications/Additive_Nano-Manufacturing_of_Multi-Functional_Materials_for_Smart_Stents_Sensing/
+permalink: /medical-applications/Additive_Nano-Manufacturing_of_Multi-Functional_Materials_for_Smart_Stents_Sensing/
 author_profile: true
 sidebar:
   nav: "docs"
