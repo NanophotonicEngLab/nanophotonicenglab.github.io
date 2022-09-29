@@ -17,4 +17,7 @@ Research directions:
 * Nano/Micro-Structured Materials for Energy Applications:
   * [Solar-thermal absorbers]({% link _pages/Research/research4.md %})
   * [3D Architectured Hybrid Materials for Electrodes and Catalysts]({% link _pages/Research/research5.md %})
+* Nano/Micro-Structured Materials for Mdeical Applications:
+  * [Multi-Functional Materials for Smart Stents Sensing]({% link _pages/Research/research7.md %})
+
 
