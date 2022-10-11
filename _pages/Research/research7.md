@@ -23,7 +23,8 @@ The planning system mainly encompasses two parts:
 
 *Funding:*
 
-[Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) (Catalyst Award) – PI: Dr. Yu-Sheng Lin; Co-PIs: Dr. Daniel Ho, Dr. Kevin Chung-Che Huang, and Dr. Shuangyi Yan, funded by the [Academia Sinica of Taiwan - Healthy Longevity Grand Challenge Competition](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf), value (US$): 100,000, 01/09/2022 – 31/08/2024.
+[Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) (Catalyst Award) – PI: Dr. Yu-Sheng Lin; Co-PIs: Dr. Daniel Ho, Dr. Kevin Chung-Che Huang, and Dr. Shuangyi Yan, funded by the [Academia Sinica of Taiwan - Healthy Longevity Grand Challenge Competition](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf) ([2023 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf)), value (US$): 100,000, 01/09/2022 – 31/08/2024.
+
 
 *Collaborators:*
 
