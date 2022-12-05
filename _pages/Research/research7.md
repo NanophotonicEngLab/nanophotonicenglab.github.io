@@ -23,7 +23,7 @@ The planning system mainly encompasses two parts:
 
 *Funding:*
 
-[Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) ([2022 Academia Sinica Catalyst Award Competition](https://healthylongevity.sinica.edu.tw/HLGC/)) – PI: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology); Co-PIs: Dr. Daniel Ho (Northumbria University), Dr. Kevin Chung-Che Huang (University of Southampton), Dr. Shuangyi Yan (University of Bristol), and Dr. Chen-Hsun Weng (National Cheng Kung University), funded by the [Academia Sinica of Taiwan – 2022 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf), value (US$): 100,000, 01/09/2022 – 31/08/2024.
+[Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) ([2022 Academia Sinica Catalyst Award Competition](https://healthylongevity.sinica.edu.tw/) – PI: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology); Co-PIs: Dr. Daniel Ho (Northumbria University), Dr. Kevin Chung-Che Huang (University of Southampton), Dr. Shuangyi Yan (University of Bristol), and Dr. Chen-Hsun Weng (National Cheng Kung University), funded by the [Academia Sinica of Taiwan – 2022 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf), value (US$): 100,000, 01/09/2022 – 31/08/2024.
 
 
 *Collaborators:*
