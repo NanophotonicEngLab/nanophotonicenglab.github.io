@@ -69,7 +69,7 @@ PhD project:<br>
    <img src="/assets/profiles/Yu-Shao Chen.png" style="float: left;height: 150px"/>
   <br><br><br><br><br>  
 </p>
-&nbsp;Mr Yu-Shao Jacky Chen<br>
+&nbsp;Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
   <br>
 PhD project:<br>
@@ -84,7 +84,7 @@ PhD project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br>  
 </p> 
-&nbsp;Mr Habib Awachi<br> 
+&nbsp;Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 Master's project:<br>
 *  Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
@@ -114,7 +114,7 @@ Master's project:<br>
   &nbsp;
 </p>
 <p align="center">
-  <a> Mr Thomas Taylor </a>
+  <a> Thomas Taylor </a>
   &nbsp;
   &nbsp;
   &nbsp;
@@ -125,7 +125,7 @@ Master's project:<br>
   &nbsp;
   &nbsp;
   &nbsp;
-  <a> Mr Kian Meadows </a> 
+  <a> Kian Meadows </a> 
   &nbsp;
   &nbsp;
   &nbsp;
@@ -136,7 +136,7 @@ Master's project:<br>
   &nbsp;
   &nbsp;
   &nbsp;
-  <a> Mr Habib Awachi </a>
+  <a> Habib Awachi </a>
   &nbsp;
   &nbsp;
   &nbsp;
@@ -150,7 +150,7 @@ Master's project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br>  
 </p>
-&nbsp;Mr Thomas Taylor<br>
+&nbsp;Thomas Taylor<br>
 &nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 &nbsp;
 &nbsp;
@@ -160,7 +160,7 @@ Master's project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br>  
 </p> 
-&nbsp;Mr Kian Meadows<br>
+&nbsp;Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
 &nbsp;
 &nbsp;
