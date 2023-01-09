@@ -53,7 +53,7 @@ Research projects:<br>
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
   <br><br><br><br><br>  
 </p>
-&nbsp;Miss Nadira Hameed<br>
+&nbsp;Nadira Meethale Palakkool<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
