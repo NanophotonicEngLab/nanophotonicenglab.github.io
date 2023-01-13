@@ -96,7 +96,7 @@ Master's project:<br>
   <br><br><br><br>  
 </p> 
 &nbsp;Mehvish Javed<br> 
-&nbsp;<habib.awachi@northumbria.ac.uk><br>     
+&nbsp;<mehvish.javed@northumbria.ac.uk><br>     
 Master's project:<br>
 *  Multi-Functional Materials for Smart Stents Sensing <br>
 &nbsp;
