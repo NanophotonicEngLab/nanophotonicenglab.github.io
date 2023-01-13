@@ -92,7 +92,7 @@ Master's project:<br>
 &nbsp;
 &nbsp;
 <p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+   <img src="/assets/profiles/profile_im_default_0.jpg" style="float: left;height: 120px"/>
   <br><br><br><br>  
 </p> 
 &nbsp;Mehvish Javed<br> 
