@@ -87,7 +87,7 @@ PhD project:<br>
 &nbsp;Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 Master's project:<br>
-*  Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 09/01/2023)<br>
+*  Highly Efficient 3D Architecture Electrodes in Energy Application (Start Date: 10/01/2023)<br>
 &nbsp;
 &nbsp;
 &nbsp;
