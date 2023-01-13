@@ -87,7 +87,18 @@ PhD project:<br>
 &nbsp;Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 Master's project:<br>
-*  Highly Efficient 3D Structured Electrodes in Energy Application (Start Date: 10/01/2023)<br>
+*  Highly Efficient 3D Structured Electrodes in Energy Application <br>
+&nbsp;
+&nbsp;
+&nbsp;
+<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br><br><br>  
+</p> 
+&nbsp;Mehvish Javed<br> 
+&nbsp;<habib.awachi@northumbria.ac.uk><br>     
+Master's project:<br>
+*  Multi-Functional Materials for Smart Stents Sensing <br>
 &nbsp;
 &nbsp;
 &nbsp;
