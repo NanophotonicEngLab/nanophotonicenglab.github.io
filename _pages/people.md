@@ -57,7 +57,7 @@ Research projects:<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
-PhD project:<br>
+Research project:<br>
 *  Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
 &nbsp;
 &nbsp;
@@ -72,7 +72,7 @@ PhD project:<br>
 &nbsp;Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
   <br>
-PhD project:<br>
+Research project:<br>
 *  Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
 &nbsp;
 &nbsp;
@@ -86,7 +86,7 @@ PhD project:<br>
 </p> 
 &nbsp;Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
-Master's project:<br>
+Research project:<br>
 *  Highly Efficient 3D Structured Electrodes in Energy Application <br>
 &nbsp;
 &nbsp;
@@ -97,7 +97,7 @@ Master's project:<br>
 </p> 
 &nbsp;Mehvish Javed<br> 
 &nbsp;<mehvish.javed@northumbria.ac.uk><br>     
-Master's project:<br>
+Research project:<br>
 *  Multi-Functional Materials for Smart Stents Sensing <br>
 &nbsp;
 &nbsp;
@@ -111,7 +111,7 @@ Master's project:<br>
 </p> 
 &nbsp;Daniel Rezaie<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
-Master's project:<br>
+Research project:<br>
 *   Highly Efficient 3D Structured Electrodes in Energy Application <br>
 &nbsp;
 &nbsp;
