@@ -98,7 +98,7 @@ Research project:<br>
 &nbsp;Mehvish Javed<br> 
 &nbsp;<mehvish.javed@northumbria.ac.uk><br>     
 Research project:<br>
-*  Multi-Functional Materials for Smart Stents Sensing <br>
+*  Synthesis of UiO-66 MOF Piezo-Composite and Development of an Ultrasonic Range System for a Wearable Self-Charging Nonocclusive Pulse and Blood Pressure Monitoring System <br>
 &nbsp;
 &nbsp;
 &nbsp;
