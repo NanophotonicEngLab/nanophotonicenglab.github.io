@@ -11,8 +11,10 @@ author_profile: true
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 120px"/>
 &nbsp;[Ms. Mehvish Javed]<br>
-&nbsp;<mehvish.javed@northumbria.ac.uk><br><br>   
-
+&nbsp;<mehvish.javed@northumbria.ac.uk><br>  
+<br>   
+<br>   
+<br> 
 ## EDUCATION
 
 * Master in Microelectronics and Communication Engineering from Northumbria University, Newcastle upon Tyne, United Kingdom
