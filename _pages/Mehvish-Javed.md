@@ -10,7 +10,7 @@ author_profile: true
 ## Master's students
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 120px"/>
-&nbsp;[Ms. Mehvish Javed]<br>
+&nbsp;Ms. Mehvish Javed<br>
 &nbsp;<mehvish.javed@northumbria.ac.uk><br>  
 <br>   
 <br>   
