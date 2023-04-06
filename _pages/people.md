@@ -14,7 +14,7 @@ author_profile: true
   <a href="https://nanophotonicenglab.github.io/Y-L-Daniel-Ho/"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
  -->
   <a href="{% link _pages/Y-L-Daniel-Ho.md %}"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
-  <br><br><br><br><br><br>  
+  <br><br><br><br>  
 </p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
@@ -35,7 +35,7 @@ author_profile: true
   <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
  -->  
   <a href="{% link _pages/Mike-P-C-Taverne.md %}"><img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/></a> 
-  <br><br><br><br><br><br> 
+  <br><br><br><br>
 </p>
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
@@ -51,7 +51,7 @@ Research projects:<br>
 
 <p align="center">
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
-  <br><br><br><br><br><br>   
+  <br><br><br><br>  
 </p>
 &nbsp;Nadira Meethale Palakkool<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
@@ -67,7 +67,7 @@ Research project:<br>
 
 <p align="center">
    <img src="/assets/profiles/Yu-Shao Chen.png" style="float: left;height: 150px"/>
-  <br><br><br><br><br><br>   
+  <br><br><br><br>   
 </p>
 &nbsp;Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
@@ -82,7 +82,7 @@ Research project:<br>
 
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br><br><br><br>   
+  <br><br><br><br>  
 </p> 
 &nbsp;Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
@@ -96,7 +96,7 @@ Research project:<br>
   <img src="/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 150px"/>
  -->  
   <a href="{% link _pages/Mehvish-Javed.md %}"><img src="/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 150px"/></a> 
-  <br><br><br><br><br><br> 
+  <br><br><br><br> 
 </p>
 &nbsp;[Ms. Mehvish Javed]({% link _pages/Mehvish-Javed.md %})<br>
 &nbsp;<mehvish.javed@northumbria.ac.uk><br>     
@@ -110,7 +110,7 @@ Research project:<br>
 
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br><br><br><br>   
+  <br><br><br><br>  
 </p> 
 &nbsp;Daniel Rezaie<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
