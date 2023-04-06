@@ -14,8 +14,7 @@ author_profile: true
 <br> 
 &nbsp;<mehvish.javed@northumbria.ac.uk><br>  
 <br>   
-<br>   
-<br> 
+
 ## EDUCATION
 
 * Master in Microelectronics and Communication Engineering from Northumbria University, Newcastle upon Tyne, United Kingdom
