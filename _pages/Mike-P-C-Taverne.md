@@ -14,7 +14,7 @@ author_profile: true
 &nbsp;Dr. Mike Taverne<br>
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br>
-&nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="width: 2.5%; border: none; text-decoration: none"/></a><br>
+&nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
 
 ## EDUCATION
