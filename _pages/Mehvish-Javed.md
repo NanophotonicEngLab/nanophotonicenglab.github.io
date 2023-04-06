@@ -13,7 +13,6 @@ author_profile: true
 <br><br><br><br><br>
 &nbsp;Ms. Mehvish Javed<br>
 &nbsp;<mehvish.javed@northumbria.ac.uk><br>  
-<br>   
 
 ## EDUCATION
 
