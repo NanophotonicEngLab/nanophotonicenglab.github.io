@@ -10,6 +10,7 @@ author_profile: true
 ## Research Fellow
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" style="float: left;height: 120px"/>
+<br><br><br><br><br>
 &nbsp;Dr. Mike Taverne<br>
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br>
