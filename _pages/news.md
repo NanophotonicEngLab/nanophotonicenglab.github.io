@@ -7,6 +7,8 @@ author_profile: true
 #comments: true
 ---
 ## Latest News 
+* 26 – 30 June 2023 Mike and Yu-Shao will present the papers at the CLEO®/Europe-EQEC 2023 in Munich, Germany.
+* 29-05 to 02-06 2023 Mike and Nadira will present the papers at the E-MRS 2023 Spring Meeting in Strasbourg, France.
 * 28-09-2022 Our joint research proposal [Catalyst Award (Academia Sinica of Taiwan - Healthy Longevity Grand Challenge Competition)](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) with Dr. Yu-Sheng Lin from Southern Taiwan University of Science and technology has just been granted ([2023 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf)).
 * 30-08-2022 Mike and Yu-Shao presented the paper and poster at the Photon 2022 Conference in Nottingham, UK.
 * 21-03-2022 Our Royal Society Research Grant to fund equipment has just been granted, which is for a heated microscope stage to characterise materials properties of solar thermal absorbers.
