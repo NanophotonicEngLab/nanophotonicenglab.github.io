@@ -7,6 +7,7 @@ author_profile: true
 #comments: true
 ---
 ## Latest News 
+* 25-04-2022 Check out our latest publication on [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://researchportal.northumbria.ac.uk/en/publications/conformal-cvd-grown-mos2-on-three-dimensional-woodpile-photonic-c), ACS Applied Optical Materials. (Accepted/In press)
 * 26 – 30 June 2023 Mike and Yu-Shao will present the papers at the CLEO®/Europe-EQEC 2023 in Munich, Germany.
 * 29-05 to 02-06 2023 Mike and Nadira will present the papers at the E-MRS 2023 Spring Meeting in Strasbourg, France.
 * 28-09-2022 Our joint research proposal [Catalyst Award (Academia Sinica of Taiwan - Healthy Longevity Grand Challenge Competition)](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) with Dr. Yu-Sheng Lin from Southern Taiwan University of Science and technology has just been granted ([2023 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/HLGC/file/Taiwans_2022_Catalyst_Awardees.pdf)).
