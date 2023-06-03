@@ -26,17 +26,17 @@ author_profile: true
 * Postgraduate Certificate Academic Practice (PGCAP), 2020-2022, Faculty of Health and Life Sciences, Northumbria University, UK.
 
 ## RESEARCH AND WORK EXPERIENCES
-* September 2023 – present
+* September 2023 – present<br> 
   Reader (Associate Professor), Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.
-* September 2019 – present
+* September 2019 – present<br> 
   Visiting Academic, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
-* September 2021 – August 2022
+* September 2021 – August 2022<br> 
   Senior Lecturer (Assistant Professor), Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.
-* September 2019 – August 2021
+* September 2019 – August 2021<br> 
   Vice-Chancellor's Senior Fellow, Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.
-* August 2012 – August 2019
+* August 2012 – August 2019<br> 
   Research Fellow, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
-* September 2007 – July 2015
+* September 2007 – July 2015<br> 
   Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
 
 ## AWARDS & HONOURS
