@@ -30,7 +30,7 @@ Mr Yu-Shao Jacky Chen
 
 *Publications:*
 
-1. M. P. C. Taverne, X. Zheng, Y.-S. J. Chen, K. A. Morgan, L. Chen, N. M. Palakkool, D. Rezaie, H. Awachi, J. G. Rarity*, D. W. Hewak, C.-C. Huang*, Y. -L. D. Ho*, [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Applied Optical Materials (May 10, 2023).
+1. M. P. C. Taverne, X. Zheng, Y.-S. J. Chen, K. A. Morgan, L. Chen, N. M. Palakkool, D. Rezaie, H. Awachi, J. G. Rarity*, D. W. Hewak, C.-C. Huang*, Y. -L. D. Ho*, [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Appl. Opt. Mater. 1, 5, 990–996 (2023).
 2. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
 3. Lifeng Chen*, Katrina Morgan, Ghada Alzaidy, Chung-Che Huang*, Y. -L. Daniel Ho*, Mike P. C. Taverne, Xu Zheng, Zhong Ren, Daniel W. Hewak, John G. Rarity, [“Observation of Complete Photonic Bandgap in Low Refractive Index Contrast Inverse Rod-Connected Diamond Structured Chalcogenides”](https://doi.org/10.1021/acsphotonics.9b00184), ACS Photonics 6, 1248−1254 (2019).
 4. M. P. C. Taverne, Y.-L. D. Ho*, X. Zheng, L.-F. Chen, C.-H. N. Fang, and J. G. Rarity, [“Strong Light Confinement in Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1364/OL.43.005202) Opt. Lett. 43, 5202- 5205 (2018).
