@@ -36,9 +36,9 @@ author_profile: true
   Vice-Chancellor's Senior Fellow, Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.
 * August 2015 – August 2019<br> 
   Research Fellow, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
-* September 2010 – July 2015<br> 
+* August 2010 – July 2015<br> 
   Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
-* September 2007 – August 2010<br> 
+* September 2007 – July 2010<br> 
   Research Assistant, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
 
 ## AWARDS & HONOURS
