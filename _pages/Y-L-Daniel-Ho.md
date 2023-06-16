@@ -34,10 +34,12 @@ author_profile: true
   Senior Lecturer (Assistant Professor), Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.
 * September 2019 – August 2021<br> 
   Vice-Chancellor's Senior Fellow, Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.
-* August 2012 – August 2019<br> 
+* August 2015 – August 2019<br> 
   Research Fellow, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
-* September 2007 – July 2015<br> 
+* September 2010 – July 2015<br> 
   Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
+* September 2007 – August 2010<br> 
+  Research Assistant, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.
 
 ## AWARDS & HONOURS
 * New Investigator Award 2021, EPSRC.
