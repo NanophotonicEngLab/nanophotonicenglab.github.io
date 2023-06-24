@@ -50,9 +50,11 @@ author_profile: true
 
 ## TEACHING EXPERIENCE
 * Introduction to Electrical Engineering
+* Introduction to Logic and Algorithms
 * Principles of Electricity
 * Research, Analysis and Presentation
-* Introduction to Logic and Algorithms
+* Fundamentals of Energy Systems
+* Electrical Product Development
 * Instrumentation and Control of Dynamical Systems
 * Quantum Devices
 * Integrated Photonics
