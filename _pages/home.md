@@ -25,9 +25,9 @@ header:
 ## Latest News
 * 26 – 30 June 2023 NEL will present the papers at the CLEO®/Europe-EQEC 2023 in Munich, Germany.
 * 10-05-2023 Check out our latest publication on [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Applied Optical Materials. 
-* 29-05 to 02-06 2023 NEL will present the papers at the E-MRS 2023 Spring Meeting in Strasbourg, France.
+* 29-05 to 02-06 2023 NEL presented the papers at the E-MRS 2023 Spring Meeting in Strasbourg, France.
 * 28-09-2022 Our joint research proposal [Catalyst Award (Academia Sinica of Taiwan - Healthy Longevity Grand Challenge Competition)](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) with Dr. Yu-Sheng Lin from Southern Taiwan University of Science and technology has just been granted.
-* 30-08-2022 Mike and Yu-Shao presented the paper and poster at the Photon 2022 Conference in Nottingham, UK.
+* 30-08-2022 NEL presented the paper and poster at the Photon 2022 Conference in Nottingham, UK.
 * 21-03-2022 Our Royal Society Research Grant to fund equipment has just been granted, which is for a heated microscope stage to characterise materials properties of solar thermal absorbers.
 * 01-03-2022 NEL welcomes its new PhD student:  [*Miss Nadira Hameed*](https://www.linkedin.com/in/nadira-hameed94/). 
 * 23-02-2022 Check out our latest publication on [*Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals*](https://doi.org/10.3390/cryst12030303).
