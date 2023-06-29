@@ -7,6 +7,7 @@ author_profile: true
 #comments: true
 ---
 ## Latest News 
+* 29-05-2023 Our EPSRC ECR international collaboration grant project *Additive Micro/Nano-manufacturing of Structured Piezoelectric Active Materials for Intelligent Stent Monitoring* has just been granted!
 * 26 – 30 June 2023 NEL will present the papers at the CLEO®/Europe-EQEC 2023 in Munich, Germany.
 * 10-05-2023 Check out our latest publication on [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Applied Optical Materials. 
 * 29-05 to 02-06 2023 NEL presented the papers at the E-MRS 2023 Spring Meeting in Strasbourg, France.
