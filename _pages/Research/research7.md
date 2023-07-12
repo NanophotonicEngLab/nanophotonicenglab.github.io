@@ -23,8 +23,8 @@ The planning system mainly encompasses two parts:
 
 *Funding:*
 
-[Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) ([2022 Academia Sinica Catalyst Award Competition](https://healthylongevity.sinica.edu.tw/) – PI: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology); Co-PIs: Dr. Daniel Ho (Northumbria University), Dr. Kevin Chung-Che Huang (University of Southampton), Dr. Shuangyi Yan (University of Bristol), and Dr. Chen-Hsun Weng (National Cheng Kung University), funded by the [Academia Sinica of Taiwan – 2022 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/file/Taiwans_2022_Catalyst_Awardees.pdf), value (US$): 100,000, 01/09/2022 – 31/08/2024.
-
+1. [Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) ([2022 Academia Sinica Catalyst Award Competition](https://healthylongevity.sinica.edu.tw/) – PI: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology); Co-PIs: Dr. Ying-Lung Daniel Ho (Northumbria University), Dr. Kevin Chung-Che Huang (University of Southampton), Dr. Shuangyi Yan (University of Bristol), and Dr. Chen-Hsun Weng (National Cheng Kung University), funded by the [Academia Sinica of Taiwan – 2022 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/file/Taiwans_2022_Catalyst_Awardees.pdf), value (US$): 100,000, 01/09/2022 – 31/08/2024.
+2. Additive Micro/Nano-manufacturing of Structured Piezoelectric Active Materials for Intelligent Stent Monitoring (EPSRC ECR international collaboration grant) – PI: Dr. Ying-Lung Daniel Ho (Northumbria University); Co-I: Dr. Shuangyi Yan (University of Bristol); Partners: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology), Dr. Hao Zeng, Dr. Hongshuang Guo (Tampere University), Dr. Quang Minh Ngo (Vietnam Academy of Science and Technology), Dr. Kevin Chung-Che Huang (University of Southampton), value (£): 154966.30 (FEC 100%), 01/09/2023 – 31/08/2025.
 
 *Collaborators:*
 
@@ -32,3 +32,6 @@ The planning system mainly encompasses two parts:
 * [Dr. Kevin Chung-Che Huang](https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang)
 * [Dr. Shuangyi Yan](https://research-information.bris.ac.uk/en/persons/shuangyi-yan)
 * [Dr. Chen-Hsun Weng](https://researchoutput.ncku.edu.tw/en/persons/chen-hsun-weng-2)
+* [Dr. Hao Zeng](https://www.tuni.fi/en/hao-zeng)
+* [Dr. Hongshuang Guo](https://researchportal.tuni.fi/en/persons/hongshuang-guo)
+* [Dr. Quang Minh Ngo](https://usth.edu.vn/en/assoc-prof-ngo-quang-minh-6539/)
