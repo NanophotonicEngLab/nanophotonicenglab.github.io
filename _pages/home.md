@@ -23,7 +23,7 @@ header:
 
 
 ## Latest News
-* 18-09 to 21-09 2023 Nadira will present the papers "3D Pyrolyzed Carbon Modified with g-C3N4@Ni Electrodeposit for Electrocatalytic Hydrogen Generation" at the E-MRS 2023 Fall Meeting in Warsaw, Poland.
+* 18 – 21-09 2023 Nadira will present the papers "3D Pyrolyzed Carbon Modified with g-C3N4@Ni Electrodeposit for Electrocatalytic Hydrogen Generation" at the E-MRS 2023 Fall Meeting in Warsaw, Poland.
 * 29-05-2023 Our EPSRC ECR international collaboration grant project *Additive Micro/Nano-manufacturing of Structured Piezoelectric Active Materials for Intelligent Stent Monitoring* has just been granted!
 * 26 – 30 June 2023 NEL will present the papers at the CLEO®/Europe-EQEC 2023 in Munich, Germany.
 * 10-05-2023 Check out our latest publication on [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Applied Optical Materials. 
