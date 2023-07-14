@@ -53,11 +53,11 @@ author_profile: true
 * Introduction to Logic and Algorithms
 * Principles of Electricity
 * Research, Analysis and Presentation
+* Digital Electronics and Communications
 * Fundamentals of Energy Systems
 * Electrical Product Development
 * Instrumentation and Control of Dynamical Systems
 * Quantum Devices
-* Integrated Photonics
 
 ## SUPERVISION EXPERIENCE
 * Miss Nadira Meethale Palakkool (2022 –, Northumbria University, UK), Primary Supervisor.
