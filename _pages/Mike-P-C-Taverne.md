@@ -15,7 +15,9 @@ author_profile: true
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br>
 &nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
-<a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a><a href="https://orcid.org/0000-0003-0521-8327"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/orcid.logo.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
+<a href="https://orcid.org/0000-0003-0521-8327"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_ORCID_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=54407613400"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_SCOPUS_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
 
 ## EDUCATION
 
@@ -25,7 +27,9 @@ author_profile: true
 
 ## RESEARCH AND WORK EXPERIENCES
 
-* Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, 01/01/2016  –  present
+* Research Fellow, Dept. of Mathematics, Physics and Electrical Engineering, Northumbria University, 01/09/2021  –  present
+* Honorary Research Associate, School of Electrical, Electronic and Mechanical Engineering, University of Bristol, 01/09/2021  –  present
+* Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, 01/01/2016  –  31/08/2021
 * Software engineer (Development of mesh generation software for CFD applications, Engineering consultancy), enGits GmbH, Germany, 2009 to 2010
 
 ## TEACHING EXPERIENCE
