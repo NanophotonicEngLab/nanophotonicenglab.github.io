@@ -47,7 +47,7 @@ Follow the instructions here: https://jekyllrb.com/docs/installation/windows/
 Serve locally
 -------------
 * Double-click on **serve_locally.bat**
-* Open http://127.0.0.1:4000/in your browser.
+* Open http://127.0.0.1:4000/ in your browser.
 
 Markdown editors
 ================
