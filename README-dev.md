@@ -36,7 +36,7 @@ Serve locally
 ```
 ./serve_locally.sh
 ```
-* Open http://127.0.0.1:4000/in your browser.
+* Open http://127.0.0.1:4000/ in your browser.
 
 Windows
 =======
