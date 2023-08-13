@@ -16,6 +16,7 @@ author_profile: true
 &nbsp;<mike.taverne@northumbria.ac.uk><br>
 &nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
+<a href="https://www.researchgate.net/profile/Mike-Taverne"><img src="https://www.researchgate.net/favicon.ico" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <a href="https://orcid.org/0000-0003-0521-8327"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_ORCID_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=54407613400"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_SCOPUS_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
 
