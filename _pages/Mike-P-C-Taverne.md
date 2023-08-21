@@ -44,7 +44,7 @@ author_profile: true
 
 ## AWARDS & HONOURS
 
-* Associate Fellow of the Higher Education Academy (AFHEA) 2022, Higher Education Academy, UK.
+* Associate Fellow of the Higher Education Academy (AFHEA) 2021, Higher Education Academy, UK.
 * PhD studentship was funded through EPSRC.
 * Baccalauréat S (scientific section) with honours (mention “très bien”), Lycée Alexandre Dumas, Port-au-Prince, Haïti, 2001.
 
