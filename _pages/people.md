@@ -106,10 +106,6 @@ Research project:<br>
 &nbsp;
 &nbsp;
 &nbsp;
-<p align="center">
-&nbsp;
-&nbsp;
-&nbsp;
 
 ## Undergraduate students
 
