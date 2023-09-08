@@ -107,18 +107,6 @@ Research project:<br>
 &nbsp;
 &nbsp;
 <p align="center">
-
-<!--   
-  <img src="/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 150px"/>
- -->  
-<!--  <a href="{% link _pages/Mehvish-Javed.md %}"><img src="/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 150px"/></a> 
-  <br><br><br><br><br>   
-</p>
-&nbsp;[Ms. Mehvish Javed]({% link _pages/Mehvish-Javed.md %})<br>
-&nbsp;<mehvish.javed@northumbria.ac.uk><br>     
-Research project:<br>
-*  Synthesis of UiO-66 MOF Piezo-Composite and Development of an Ultrasonic Range System for a Wearable Self-Charging Nonocclusive Pulse and Blood Pressure Monitoring System <br>
--->  
 &nbsp;
 &nbsp;
 &nbsp;
@@ -191,6 +179,17 @@ Research project:<br>
 -->
 
 
+<!--   
+  <img src="/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 150px"/>
+ -->  
+<!--  <a href="{% link _pages/Mehvish-Javed.md %}"><img src="/assets/profiles/profile_im_MJ.jpg" style="float: left;height: 150px"/></a> 
+  <br><br><br><br><br>   
+</p>
+&nbsp;[Ms. Mehvish Javed]({% link _pages/Mehvish-Javed.md %})<br>
+&nbsp;<mehvish.javed@northumbria.ac.uk><br>     
+Research project:<br>
+*  Synthesis of UiO-66 MOF Piezo-Composite and Development of an Ultrasonic Range System for a Wearable Self-Charging Nonocclusive Pulse and Blood Pressure Monitoring System <br>
+-->  
 <!--<p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br>  
