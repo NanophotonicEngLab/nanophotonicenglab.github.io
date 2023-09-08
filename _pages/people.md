@@ -113,7 +113,7 @@ Research project:<br>
   <br><br><br><br><br>    
 </p> 
 &nbsp;Daniel Rezaie<br> 
-&nbsp;<habib.awachi@northumbria.ac.uk><br>     
+&nbsp;<daniel.rezaie@northumbria.ac.uk><br>     
 Research project:<br>
 *  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring <br>
 &nbsp;
