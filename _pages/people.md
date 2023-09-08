@@ -93,7 +93,6 @@ Research project:<br>
 &nbsp;
 &nbsp;
 &nbsp;
-<p align="center">
 
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
