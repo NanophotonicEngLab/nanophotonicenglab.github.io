@@ -21,4 +21,5 @@ sidebar:
        * NANOQ-2.5 (NanoQuest - MEMS-Based FT-IR Sensor)
    * Microscope Heating and Cooling Stages:
        * Linkam TS1000EV high temperature heating stages with internal electrical contacts & vacuum ports.
-   
+   *  Potentiostat / Galvanostat / Impedance Analyzer:
+       * PALM-ES4S-HR.F1 - Emstat4S High Range 200 kHz EIS.
