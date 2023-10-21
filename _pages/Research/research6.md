@@ -21,7 +21,8 @@ Recently, 3D photonic crystal structures with complete photonic bandgaps (PBGs) 
 
 *Publications:*
 
-1. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
+1. M. P. C. Taverne, X. Zheng, Y.-S. J. Chen, K. A. Morgan, L. Chen, N. M. Palakkool, D. Rezaie, H. Awachi, J. G. Rarity*, D. W. Hewak, C.-C. Huang*, Y. -L. D. Ho*, [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Appl. Opt. Mater. 1, 5, 990–996 (2023).
+2. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
 1. M. P. C. Taverne, Y.-L. D. Ho*, X. Zheng, L.-F. Chen, C.-H. N. Fang, and J. G. Rarity, [“Strong Light Confinement in Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1364/OL.43.005202) Opt. Lett. 43, 5202- 5205 (2018).
 1. Xu Zheng*, Mike P. C. Taverne*, Y.-L. D. Ho*, and John G. Rarity*, [“Cavity Design in Woodpile Based 3D Photonic Crystal”](https://doi.org/10.3390/app8071087), Appl. Sci. 8, 1087 (2018).
 1. M. P. C. Taverne, Y.-L. D. Ho*, L.-F. Chen, X. Zheng, M. Lopez-Garcia, and J. G. Rarity, [“Modelling of Defect Cavities Formed in Inverse Three-Dimensional Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1209/0295-5075/116/64007), EPL (Europhys. Lett.) 116, 64007 (2017).
