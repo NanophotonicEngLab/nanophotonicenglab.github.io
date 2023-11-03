@@ -86,10 +86,10 @@ Research project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
-&nbsp;Habib Awachi<br> 
-&nbsp;<habib.awachi@northumbria.ac.uk><br>     
+&nbsp;Vigil Amal Vijay<br> 
+&nbsp;<vigil.vijay@northumbria.ac.uk><br>     
 Research project:<br>
-*  Highly Efficient 3D Structured Electrodes in Energy Application <br>
+*  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring <br>
 &nbsp;
 &nbsp;
 &nbsp;
