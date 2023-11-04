@@ -98,10 +98,10 @@ Research project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
-&nbsp;Vigil Vijay<br> 
-&nbsp;<vigil.vijay@northumbria.ac.uk><br>     
+&nbsp;Gopakumar Cheeramparambil Sasi<br> 
+&nbsp;<gopakumar.c.sasi@northumbria.ac.uk><br>     
 Research project:<br>
-*  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring  <br>
+*  Thermoelectric Power Generation using Concentrated Sunlight, Seawater, and Wind<br>
 &nbsp;
 &nbsp;
 &nbsp;
