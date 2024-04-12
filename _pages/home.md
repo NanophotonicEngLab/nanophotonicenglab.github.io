@@ -18,7 +18,8 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images-v5.png" alt="">
 
 ## Nanophotonic Engineering Laboratory (NEL)
-*The Nanophotonic Engineering Laboratory, established within the Department of Mathematics, Physics, and Electrical Engineering at Northumbria University in September 2019, is dedicated to cutting-edge researches such as quantum nanophotonic engineering, and artificially-structured multi-functional materials for energy and bio-medical applications.*  
+*The Nanophotonic Engineering Laboratory, established within the Department of Mathematics, Physics, and Electrical Engineering at Northumbria University in September 2019, is dedicated to cutting-edge research in several exciting areas
+including quantum nanophotonic engineering, and artificially-structured multi-functional materials for energy and bio-medical applications.*  
 ## Latest News
 * 11-04-2024 Our EPSRC joint project [(EP/Y016440/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y016440/1) "Hyperuniform Disordered Metasurfaces for Selective Absorbers" has been granted! A news item is released - [Project to boost solar energy capture awarded £1.1 million](https://www.surrey.ac.uk/news/project-boost-solar-energy-capture-awarded-ps11-million)
 * 12-02-2024 Check out our collaboration with [Dr Jonathan Mar](https://www.ncl.ac.uk/maths-physics/people/profile/jonathanmar.html) from Newcastle University to celebrate the Year of the Dragon, which is now available to the public! [X(Twitter)](https://twitter.com/uniofnewcastle/status/1757087966915100744?s=46), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7162958926999724032/), [facebook](https://www.facebook.com/photo/?fbid=789631799858393&set=pcb.789631946525045), [Threads](https://www.threads.net/@newcastleuni/post/C3QLcUPtYmc), and [Instagram](https://www.instagram.com/p/C3Qg-l3taU5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==).
