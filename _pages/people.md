@@ -64,7 +64,7 @@ Research project:<br>
 &nbsp;
 &nbsp;
 &nbsp;
-
+  <br><br>
 <p align="center">
   <img src="/assets/profiles/Owen Bell.jpg" style="float: left;height: 150px"/> 
   <br><br><br><br><br>    
@@ -100,7 +100,7 @@ Research project:<br>
   <br><br><br><br><br>    
 </p> 
 &nbsp;Akshay Kumar Vennu<br> 
-&nbsp;<vigil.vijay@northumbria.ac.uk><br>     
+&nbsp;<akshay.vennu@northumbria.ac.uk><br>     
 Research project:<br>
 *  3D Structured Carbon Electrodes for Sustainable and High-Capacity Batteries <br>
 &nbsp;
