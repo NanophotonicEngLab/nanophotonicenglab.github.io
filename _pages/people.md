@@ -65,6 +65,19 @@ Research project:<br>
 &nbsp;
 &nbsp;
 
+<p align="center">
+  <img src="/assets/profiles/Owen Bell.jpg" style="float: left;height: 150px"/> 
+  <br><br><br><br><br>    
+</p>
+&nbsp;Owen Bell<br>
+&nbsp;<owen2.bell@northumbria.ac.uk><br> 
+    <br>
+Research project:<br>
+*  Engineering Hyperuniform Disordered Architectures for Enhanced Thermal Absorption (Start Date: 01/10/2024)
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## <!--## External PhD Students-->
 
 <p align="center">
@@ -86,22 +99,10 @@ Research project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
-&nbsp;Vigil Amal Vijay<br> 
+&nbsp;Akshay Kumar Vennu<br> 
 &nbsp;<vigil.vijay@northumbria.ac.uk><br>     
 Research project:<br>
-*  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring <br>
-&nbsp;
-&nbsp;
-&nbsp;
-
-<p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br><br><br><br>    
-</p> 
-&nbsp;Gopakumar Cheeramparambil Sasi<br> 
-&nbsp;<gopakumar.c.sasi@northumbria.ac.uk><br>     
-Research project:<br>
-*  Thermoelectric Power Generation using Concentrated Sunlight, Seawater, and Wind<br>
+*  3D Structured Carbon Electrodes for Sustainable and High-Capacity Batteries <br>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -109,13 +110,25 @@ Research project:<br>
 ## Undergraduate students
 
 <p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+   <img src="/assets/profiles/Daniel Rezaie.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
 &nbsp;Daniel Rezaie<br> 
 &nbsp;<daniel.rezaie@northumbria.ac.uk><br>     
 Research project:<br>
 *  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring <br>
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br><br><br><br>    
+</p> 
+&nbsp;Ben Saunders<br> 
+&nbsp;<b.saunders@northumbria.ac.uk><br>     
+Research project:<br>
+*  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring<br>
 &nbsp;
 &nbsp;
 &nbsp;
