@@ -55,7 +55,7 @@ Research projects:<br>
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
   <br><br><br><br><br>    
 </p>
-&nbsp;Nadira Meethale Palakkool<br>
+&nbsp;Miss. Nadira Meethale Palakkool<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
@@ -69,7 +69,7 @@ Research project:<br>
   <img src="/assets/profiles/Owen Bell.jpg" style="float: left;height: 150px"/> 
   <br><br><br><br><br>    
 </p>
-&nbsp;Owen Bell<br>
+&nbsp;Mr. Owen Bell<br>
 &nbsp;<owen2.bell@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/owen-bell-73760b271/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
@@ -85,7 +85,7 @@ Research project:<br>
    <img src="/assets/profiles/Yu-Shao Chen.png" style="float: left;height: 150px"/>
   <br><br><br><br><br>     
 </p>
-&nbsp;Yu-Shao Jacky Chen<br>
+&nbsp;Mr. Yu-Shao Jacky Chen<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
   <br>
 Research project:<br>
@@ -100,7 +100,7 @@ Research project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
-&nbsp;Akshay Kumar Vennu<br> 
+&nbsp;Mr. Akshay Kumar Vennu<br> 
 &nbsp;<akshay.vennu@northumbria.ac.uk><br>     
 Research project:<br>
 *  3D Structured Carbon Electrodes for Sustainable and High-Capacity Batteries <br>
@@ -114,7 +114,7 @@ Research project:<br>
    <img src="/assets/profiles/Daniel Rezaie.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
-&nbsp;Daniel Rezaie<br> 
+&nbsp;Mr. Daniel Rezaie<br> 
 &nbsp;<daniel.rezaie@northumbria.ac.uk><br>     
 Research project:<br>
 *  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring <br>
@@ -126,7 +126,7 @@ Research project:<br>
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br><br><br><br>    
 </p> 
-&nbsp;Ben Saunders<br> 
+&nbsp;Mr. Ben Saunders<br> 
 &nbsp;<b.saunders@northumbria.ac.uk><br>     
 Research project:<br>
 *  Structured Piezoelectric Active Materials for Intelligent Stent Monitoring<br>
