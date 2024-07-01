@@ -26,7 +26,7 @@ The main objective of the proposed research is the realisation of novel architec
 
 *Funding:*
 
-1. Hyperuniform Disordered Metasurfaces For Selective Absorbers – PI: Prof Marian Florescu (University of Surrey); Co-PI: Dr. Ying-Lung Daniel Ho, Researcher: Mike Taverne (Northumbria University), Co-PIs: Prof Martin Cryan, Prof. Neil Fox, Dr Jonathan Pugh (University of Bristol), funded by the EPSRC grant no. EP/Y016440/1, value (£): 1,317,582.09 (FEC 100%). (the expected start date) 01/09/2024 – 31/08/2027. 
+1. Hyperuniform Disordered Metasurfaces For Selective Absorbers – PI: Prof Marian Florescu (University of Surrey); Co-PI: Dr. Ying-Lung Daniel Ho, Researcher: Mike Taverne (Northumbria University), Co-PIs: Prof Martin Cryan, Prof. Neil Fox, Dr Jonathan Pugh (University of Bristol), funded by the EPSRC grant no. EP/Y016440/1, value (£): 1,317,582.09 (FEC 100%). (the expected start date) 02/09/2024 – 01/09/2027. 
 2. *Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption* (Research Grants 2022 Round 1) – PI: Dr. Ying-Lung Daniel Ho, funded by the Royal Society, value (£): £19,954.36, 21/03/2022 – 30/06/2023.
 
 *Collaborators:*
