@@ -15,7 +15,11 @@ The main objective of the proposed research is the realisation of novel architec
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/research4.png" alt="">
 
+*PGR Supervision:*
 
+ Mr. Owen Bell
+* Title: Engineering Hyperuniform Disordered Architectures for Enhanced Thermal Absorption (Start Date: 01/10/2024)
+  
 *Publications:*
 
 1. C. Wan, Y.-L. D. Ho, S. Nunez-Sanchez, N. Dorh, L. Chen, N. Fox, T. Mallick, S. Sundaram, and M.J. Cryan, [“A Selective Metasurface Absorber with An Amorphous Carbon Interlayer for Solar Thermal Applications,”](https://doi.org/10.1016/j.nanoen.2016.05.013) Nano Energy 26, 392–397(2016). 
