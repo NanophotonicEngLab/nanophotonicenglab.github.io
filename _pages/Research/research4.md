@@ -17,7 +17,7 @@ The main objective of the proposed research is the realisation of novel architec
 
 *PGR Supervision:*
 
- Mr. Owen Bell
+ [Mr. Owen Bell](https://www.linkedin.com/in/owen-bell-73760b271/)
 * Title: Engineering Hyperuniform Disordered Architectures for Enhanced Thermal Absorption (Start Date: 01/10/2024)
   
 *Publications:*
