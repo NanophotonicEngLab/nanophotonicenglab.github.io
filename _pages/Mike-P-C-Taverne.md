@@ -35,7 +35,8 @@ author_profile: true
 
 ## TEACHING EXPERIENCE
 
-* Seminars for the “Instrumentation Systems” section of the [“Instrumentation and Control of Dynamical Systems” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd6031-instrumentation-and-control-of-dynamical-systems&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2023), University of Northumbria, February 2022 - present
+* Practical sessions on [Logisim](https://github.com/logisim-evolution/logisim-evolution) for the ["Digital Electronics and Communications" module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd4009-digital-electronics-and-communications&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2025), University of Northumbria, October - December 2024
+* Seminars for the “Instrumentation Systems” section of the [“Instrumentation and Control of Dynamical Systems” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd6031-instrumentation-and-control-of-dynamical-systems&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2023), University of Northumbria, February 2022
 * Lectures and practical sessions for the “Simulation: Photonic crystals and waveguides” section of the [“Quantum Devices” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/physics-mphys-ft-uusics1?moduleslug=kd6041-quantum-devices&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D&y=2022), University of Northumbria, September - December 2021
 * Quantum Device Engineering Guest Lecture on Photonic crystals, University of Bristol, March 2020
 * Lumerical workshop in the Advanced Optoelectronic Devices unit of the Optical Communications and Signal Processing MSc, University of Bristol, March 2019
@@ -44,6 +45,7 @@ author_profile: true
 
 ## AWARDS & HONOURS
 
+* Fellow of the Higher Education Academy (FHEA) 2024, Higher Education Academy, UK.
 * Associate Fellow of the Higher Education Academy (AFHEA) 2021, Higher Education Academy, UK.
 * PhD studentship was funded through EPSRC.
 * Baccalauréat S (scientific section) with honours (mention “très bien”), Lycée Alexandre Dumas, Port-au-Prince, Haïti, 2001.
