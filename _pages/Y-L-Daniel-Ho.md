@@ -62,7 +62,7 @@ author_profile: true
 ## SUPERVISION EXPERIENCE
 * Mr. Owen Bell (2024 –, Northumbria University, UK), Primary Supervisor.
 * Miss Nadira Meethale Palakkool (2022 –, Northumbria University, UK), Primary Supervisor.
-* Mr Yu-Shao Jacky Chen (2020 – 2024, University of Bristol, UK), Co-Supervisor.
+* Dr Yu-Shao Jacky Chen (2020 – 2024, University of Bristol, UK), Co-Supervisor.
 * Dr Shun-An Jiang (2017 – 2021, National Cheng Kung University, Taiwan), Co-Supervisor.
 * Dr Jia-De Lin (2015 – 2016, National Cheng Kung University visiting PhD Students, University of Bristol, UK), Co-Supervisor.
 
