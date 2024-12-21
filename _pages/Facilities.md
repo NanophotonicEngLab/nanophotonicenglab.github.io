@@ -14,8 +14,8 @@ sidebar:
 * Equipment 
   * Lasers:
     * Samba - Supercontinuum Laser
-    * gem 532 – Solid State Continuous Wave Laser
-    * PIL051-FS – Picosecond Pulsed Diode Lasers
+    * gem 532 – Solid State Continuous Wave Laser (532nm)
+    * PIL051-FS – Picosecond Pulsed Diode Laser (510nm)
    * Spectrometers:
        * HR4PRO-VIS-NIR-ES
        * NANOQ-2.5 (NanoQuest - MEMS-Based FT-IR Sensor)
