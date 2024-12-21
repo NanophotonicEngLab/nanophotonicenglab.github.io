@@ -6,3 +6,6 @@ Design based on https://github.com/SMSL-NU/SMSL-NU.github.io -> https://SMSL-NU.
 Created using:
 * https://mmistakes.github.io/minimal-mistakes/
 * https://jekyllrb.com/
+
+Guide on setting up a Jekyll website with Github:
+* https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
