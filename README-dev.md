@@ -54,7 +54,7 @@ Markdown editors
 * https://wereturtle.github.io/ghostwriter/ (for Windows)
 * https://github.com/ondratu/formiko (available in *ubuntu repositories)
 
-TODO:
-=====
+TODO
+====
 * https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 
