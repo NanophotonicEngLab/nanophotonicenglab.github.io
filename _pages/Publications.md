@@ -10,7 +10,7 @@ comments: true
 
 ## Research Publications
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 10%; border: none; text-decoration: none"/>
-1. N. M. Palakkool, M. P. C. Taverne, O. Bell, J. D. Mar, V. Barrioz, Y. Qu*, C.-C. Huang*, Y.-L. D. Ho*, ["Recent Advances in Surface Functionalized 3D Electrocatalyst for Water Splitting](https://doi.org/10.1002/aesr.202400258), "Advanced Energy and Sustainability Research, 2024 (Early View).
+1. N. M. Palakkool, M. P. C. Taverne, O. Bell, J. D. Mar, V. Barrioz, Y. Qu*, C.-C. Huang*, Y.-L. D. Ho*, ["Recent Advances in Surface Functionalized 3D Electrocatalyst for Water Splitting](https://doi.org/10.1002/aesr.202400258), "Advanced Energy and Sustainability Research, 2025 (Early View).
 2. M. K. Prasad, M. P. C. Taverne, C.-C. Huang, J. D, Mar, Y.-L. D. Ho, [“Hexagonal Boron Nitride Based Photonic Quantum Technologies”](https://doi.org/10.3390/ma17164122) Materials 17, 4122 (2024).
 3. J. Wambua, F. Mwema, S. A. Akinlabi, M. Birkett, B. B. Xu, W. L. Woo, M. P. C. Taverne, Y-.L. D. Ho, E. T. Akinlabi, [“Optimisation of Printing Parameters of Fused Deposition Modelling and Uniaxial Compression Failure Analysis for Four-Point Star-Shaped Structures”](https://doi.org/10.1108/RPJ-11-2023-0415), Rapid Prototyp J, 30, 5, 885-903 (2024).
 4.	M. P. C. Taverne, X. Zheng, Y.-S. J. Chen, K. A. Morgan, L. Chen, N. M. Palakkool, D. Rezaie, H. Awachi, J. G. Rarity*, D. W. Hewak, C.-C. Huang*, Y. -L. D. Ho*, [“Conformal CVD-grown MoS2 on Three-dimensional Woodpile Photonic Crystals for Photonic Bandgap Engineering”](https://doi.org/10.1021/acsaom.3c00055), ACS Appl. Opt. Mater. 1, 5, 990–996 (2023).
