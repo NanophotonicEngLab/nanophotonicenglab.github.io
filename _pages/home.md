@@ -21,6 +21,7 @@ header:
 *The Nanophotonic Engineering Laboratory, established within the Department of Mathematics, Physics, and Electrical Engineering at Northumbria University in September 2019, is dedicated to cutting-edge research in several exciting areas
 including quantum nanophotonic engineering, and artificially-structured multi-functional materials for energy and bio-medical applications.*  
 ## Latest News
+* 16-01-2025 Check out our latest publication on ["Recent Advances in Surface Functionalized 3D Electrocatalyst for Water Splitting"](https://doi.org/10.1002/aesr.202400258).
 * 25-11-2024 Our project, '[HyMeta: Hyperuniform Disordered Metasurfaces for Selective Absorbers (EP/Y016440/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y016440/1),' has been shortlisted in the [Energy and Environment category](https://www.theengineer.co.uk/content/news/shortlist-announced-for-the-engineer-s-2024-collaborate-to-innovate-awards). NEL is honored to be part of this highly promising project and to collaborate with such an outstanding team. 
 * 01-10-2024 NEL welcomes its new PhD student: [*Mr. Owen Bell*](https://www.linkedin.com/in/owen-bell-73760b271).
 * 11-04-2024 Our EPSRC joint project [(EP/Y016440/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y016440/1) "Hyperuniform Disordered Metasurfaces for Selective Absorbers" has been granted! A news item is released - [Project to boost solar energy capture awarded £1.1 million](https://www.surrey.ac.uk/news/project-boost-solar-energy-capture-awarded-ps11-million)
