@@ -10,14 +10,12 @@ author_profile: true
 
 ## PhD Student
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
 <br><br><br><br><br>
-&nbsp;Dr. Y.-L. Daniel Ho<br>
+&nbsp;Mr Owen George Bell<br>
 &nbsp;ELD10X<br>
 &nbsp;<owen2.bell@northumbria.ac.uk><br>
-&nbsp;<a href="https://researchportal.northumbria.ac.uk/en/persons/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" 
 
-## D10XATION
+## EDUCATION
 
 * B.Sc 2024 - Electrical & Electronic Engineering, Northumbria Univerisity, UK.
 
