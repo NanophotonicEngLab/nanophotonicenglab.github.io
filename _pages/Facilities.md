@@ -11,6 +11,7 @@ sidebar:
 * Facilities
   * [Fourier Image Spectroscopy]({% link _pages/Facilities/FIS.md %})
   * [Confocal microscope]({% link _pages/Facilities/confocal.md %})
+  * [Fourier Image Spectroscopy + Heating stage, Vertical setup]
 * Equipment 
   * Lasers:
     * Samba - Supercontinuum Laser
