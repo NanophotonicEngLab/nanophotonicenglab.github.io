@@ -21,6 +21,7 @@ author_profile: true
 &nbsp;<daniel.ho@northumbria.ac.uk><br> 
   <a href="https://researchportal.northumbria.ac.uk/en/persons/daniel-ho/?_gl=1*1ic6edl*_ga*MTIzNDgwNjM4Ni4xNjUzOTk4MjQx*_ga_GZ3Q7PNF2K*MTY4NzcwMjg4MS41NC4xLjE2ODc3MDMwMzMuMjUuMC4w/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
+  <a href="https://orcid.org/0000-0001-8643-4990"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_ORCID_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 &nbsp;
