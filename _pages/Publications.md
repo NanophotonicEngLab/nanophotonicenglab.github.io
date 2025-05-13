@@ -10,7 +10,7 @@ comments: true
 
 ## Research Publications
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 10%; border: none; text-decoration: none"/>
-1. N. Meethale Palakkool, M. P. C. Taverne, O. G. Bell, C. P. Jones, J. D. Mar, D. T. Ho, V. Barrioz, Y. Qu, C.-C. Huang*, Y.-L. D. Ho*, “Conformally-Coated Nickel-Carbon Nitride on Structured Pyrolytic Carbon Electrodes for Enhanced Hydrogen Evolution,” Science Advances, (submitted). [arXiv preprint arXiv:2505.06627](https://arxiv.org/pdf/2505.06627).
+1. N. Meethale Palakkool, M. P. C. Taverne, O. G. Bell, C. P. Jones, J. D. Mar, D. T. Ho, V. Barrioz, Y. Qu, C.-C. Huang*, Y.-L. D. Ho*, “Conformally-Coated Nickel-Carbon Nitride on Structured Pyrolytic Carbon Electrodes for Enhanced Hydrogen Evolution,” (submitted). [arXiv preprint arXiv:2505.06627](https://arxiv.org/pdf/2505.06627).
 2. Y.-S. Chen J., M. P. C. Taverne, C.-C. Huang, Y.-L. D. Ho, J. G. Rarity, “Thermal Shrinkage-Induced Modifications in Photonic Band Gaps of Two-Photon Polymerized Bragg Reflectors,” Adv Photonics Res, (2025), [arXiv preprint arXiv:2503.15651](http://arxiv.org/abs/2503.15651).
 3. N. M. Palakkool, M. P. C. Taverne, O. Bell, J. D. Mar, V. Barrioz, Y. Qu*, C.-C. Huang*, Y.-L. D. Ho*, ["Recent Advances in Surface Functionalized 3D Electrocatalyst for Water Splitting"](https://doi.org/10.1002/aesr.202400258), Advanced Energy and Sustainability Research, 2025 (Early View).
 4. M. K. Prasad, M. P. C. Taverne, C.-C. Huang, J. D, Mar, Y.-L. D. Ho, [“Hexagonal Boron Nitride Based Photonic Quantum Technologies”](https://doi.org/10.3390/ma17164122), Materials 17, 4122 (2024).
