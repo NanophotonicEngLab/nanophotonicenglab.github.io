@@ -1,40 +1,36 @@
-
 ---
 title:  "Fourier Image Spectroscopy + heating stage vertical setup"
 #layout: archive
 layout: collection
 #layout: splash
-permalink: /Facilities/FIS+H/
+permalink: /Facilities/FIS+heat_vertical/
 author_profile: true
 sidebar:
   nav: "facilities"
 gallery:
-  - url: /assets/FIS/FIS-setup-visible.png
-    image_path: /assets/FIS/FIS-setup-visible.png
-    alt: "FIS-setup-visible.png"
-    title: "FIS setup for the visible range: Diagram"
-  - url: /assets/FIS/FIS-setup-visible-top.jpg
-    image_path: /assets/FIS/FIS-setup-visible-top.jpg
-    alt: "FIS-setup-visible-top.jpg"
-    title: "FIS setup for the visible range: Top part"
-  - url: /assets/FIS/FIS-setup-visible-bottom.jpg
-    image_path: /assets/FIS/FIS-setup-visible-bottom.jpg
-    alt: "FIS-setup-visible-bottom.jpg"
-    title: "FIS setup for the visible range: Bottom part"
-  - url: /assets/FIS/FIS-setup-IR.png
-    image_path: /assets/FIS/FIS-setup-IR.png
-    alt: "FIS-setup-IR.png"
-    title: "FIS setup for the infrared range: Diagram"
-  - url: /assets/FIS/FIS-setup-IR-top.jpg
-    image_path: /assets/FIS/FIS-setup-IR-top.jpg
-    alt: "FIS-setup-IR-top.jpg"
-    title: "FIS setup for the infrared range: Top part"
-  - url: /assets/FIS/FIS-setup-IR-bottom.jpg
-    image_path: /assets/FIS/FIS-setup-IR-bottom.jpg
-    alt: "FIS-setup-IR-bottom.jpg"
-    title: "FIS setup for the infrared range: Bottom part"
+  - url: /assets/Linkam-TS1000EV-hot-stage/linkam-stage-cool-pic.jpg
+    image_path: /assets/Linkam-TS1000EV-hot-stage/linkam-stage-cool-pic.jpg
+    alt: "linkam-stage-cool-pic.jpg"
+    title: "Linkam TS1000EV stage at 1000°C"
+  - url: /assets/Linkam-TS1000EV-hot-stage/linkam-stage-image-under-objective.jpg
+    image_path: /assets/Linkam-TS1000EV-hot-stage/linkam-stage-image-under-objective.jpg
+    alt: "linkam-stage-image-under-objective.jpg"
+    title: "Linkam TS1000EV stage under a MY50X-825 objective (50X Mitutoyo Plan Apochromat Objective, 480 - 1800 nm, 0.42 NA, 17.0 mm WD)"
 ---
-{% include gallery id="gallery" caption="Fourier Image Spectroscopy setups" %}
+{% include gallery id="gallery" caption="Linkam TS1000EV stage" %}
+
+# High Temperature Stage Specifications
+
+- Model : Linkam TS1000EV, with internal electrical contacts and vacuum option
+- Temperature range : ambient to 1000ºC
+- Maximum sample weight : 120mg
+- Maximum heating rate : 200°C/min
+- Aperture hole : 1.7mm
+- Weight : 0.5kg
+- Maximum vacuum : 10<sup>-3</sup>mBar
+- Maximum voltage : 50V
+- Maximum ampere : 0.2A
+
 <!-- {% include gallery id="gallery" layout="" caption="Fourier Image Spectroscopy setup" %} -->
 <!-- {% include gallery id="gallery" layout="" caption="This is a half gallery layout example." %} -->
 
