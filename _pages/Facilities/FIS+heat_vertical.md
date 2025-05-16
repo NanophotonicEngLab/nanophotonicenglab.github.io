@@ -29,7 +29,7 @@ gallery:
 - Weight : 0.5kg
 - Maximum vacuum : 10<sup>-3</sup>mBar
 - Maximum voltage : 50V
-- Maximum ampere : 0.2A
+- Maximum current : 0.2A
 
 <!-- {% include gallery id="gallery" layout="" caption="Fourier Image Spectroscopy setup" %} -->
 <!-- {% include gallery id="gallery" layout="" caption="This is a half gallery layout example." %} -->
