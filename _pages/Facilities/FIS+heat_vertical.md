@@ -27,7 +27,7 @@ gallery:
 - Maximum heating rate : 200°C/min
 - Aperture hole : 1.7mm
 - Weight : 0.5kg
-- Maximum vacuum : 10<sup>-3</sup>mBar
+- Maximum vacuum : 10<sup>-3</sup>mbar
 - Maximum voltage : 50V
 - Maximum current : 0.2A
 
