@@ -1,5 +1,5 @@
 ---
-title:  "Fourier Image Spectroscopy + heating stage vertical setup"
+title:  "High Temperature Stage that can be used in the FIS setup"
 #layout: archive
 layout: collection
 #layout: splash
