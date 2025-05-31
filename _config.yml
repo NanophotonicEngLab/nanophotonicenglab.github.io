@@ -140,9 +140,11 @@ footer:
     #- label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       ## url:
+    - label: "NEL-sharepoint"
+      url: "https://livenorthumbriaac.sharepoint.com/sites/NanophotonicEngineeringLaboratoryNEL"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/NanophotonicEngLab/nanophotonicenglab.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
