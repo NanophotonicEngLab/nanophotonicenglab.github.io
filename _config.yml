@@ -145,6 +145,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NanophotonicEngLab/nanophotonicenglab.github.io"
+    - label: "NEL-resources"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nanophotonicenglab-resources"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
