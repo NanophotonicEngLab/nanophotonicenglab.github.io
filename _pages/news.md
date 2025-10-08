@@ -7,6 +7,7 @@ author_profile: true
 #comments: true
 ---
 ## Latest News 
+* 02-10-2025 Delighted to announce that our first collaborative paper on nano-mechanical sensing, titled ["Two Dimensional-Material-Coated Microcantilevers for Enhanced Mass Sensing and Material Characterization"](https://doi.org/10.1039/D5NR03147H), has been accepted in Nanoscale. Huge thanks to everyone involved!
 * 18-06-2025 Excited to share that our paper ["Thermal Shrinkage-Induced Modifications in Photonic Band Gaps of Two-Photon Polymerized Bragg Reflectors"](https://arxiv.org/abs/2503.15651) has been accepted in Advanced Photonics Research – grateful to all involved!
 * 16-01-2025 Check out our latest publication on ["Recent Advances in Surface Functionalized 3D Electrocatalyst for Water Splitting"](https://doi.org/10.1002/aesr.202400258).
 * 25-11-2024 Our project, '[HyMeta: Hyperuniform Disordered Metasurfaces for Selective Absorbers (EP/Y016440/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y016440/1),' has been shortlisted in the [Energy and Environment category](https://www.theengineer.co.uk/content/news/shortlist-announced-for-the-engineer-s-2024-collaborate-to-innovate-awards). NEL is honored to be part of this highly promising project and to collaborate with such an outstanding team. 
