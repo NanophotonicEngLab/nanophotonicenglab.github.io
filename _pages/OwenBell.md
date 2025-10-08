@@ -1,4 +1,3 @@
-
 ---
 title:  "Owen Bell - PhD Student"
 #layout: collection
