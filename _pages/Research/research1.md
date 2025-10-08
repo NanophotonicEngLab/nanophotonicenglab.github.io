@@ -17,7 +17,8 @@ Planck's assumption of electromagnetic energy quantization and Einstein's hypoth
 
 *Publications:*
 
-1. F. Ortiz-Huerta, L. Chen, M. P. C.  Taverne, J.P. Hadden, M. Johnson, Y.-L.D. Ho, and J.G. Rarity, ["Fabrication of hybrid Fabry-Perot microcavity using two-photon lithography for single-photon sources"](https://doi.org/10.1364/OE.26.033245), Opt. Express 26, 33245-33252 (2018).
+1. M. K. Prasad, M. P. C. Taverne, C.-C. Huang, J. D, Mar, Y.-L. D. Ho, [“Hexagonal Boron Nitride Based Photonic Quantum Technologies”](https://doi.org/10.3390/ma17164122), Materials 17, 4122 (2024).
+2. F. Ortiz-Huerta, L. Chen, M. P. C.  Taverne, J.P. Hadden, M. Johnson, Y.-L.D. Ho, and J.G. Rarity, ["Fabrication of hybrid Fabry-Perot microcavity using two-photon lithography for single-photon sources"](https://doi.org/10.1364/OE.26.033245), Opt. Express 26, 33245-33252 (2018).
 1. L. Marseglia, J. P. Hadden, A. C. Stanley-Clarke, J. P. Harrison, B. Patton, Y.-L. D. Ho, B. Naydenov, F. Jelezko, J. Meijer, J. G. Rarity, and J. L. O'Brien, [“Nanofabricated solid immersion lenses registered to single emitters in diamond”](https://doi.org/10.1063/1.3573870), Appl. Phys. Lett. 98, 133107 (2011).
 1. S. Castelletto, J. P. Harrison, L. Marseglia, A. C. Stanley-Clarke, B. C. Gibson, B. A. Fairchild, J. P. Hadden, Y.-L. D. Ho, M. P. Hiscocks, K. Ganesan, S. T. Huntington, F. Ladouceur, A. D. Greentree, S. Prawer, J. L. O'Brien, and J. G. Rarity, [“Diamond-based structures to collect and guide light”](https://doi.org/10.1088/1367-2630/13/2/025020), New J. Phys.13, 025020 (2011).
 1. J. P. Hadden, J. P. Harrison, A. C. Stanley-Clarke, L. Marseglia, Y.-L. D. Ho, B. R. Patton, J. L. O’Brien, and J. G. Rarity, [“Strongly enhanced photon collection from diamond defect centers under microfabricated integrated solid immersion lenses”](https://doi.org/10.1063/1.3519847), Appl. Phys. Lett. 97, 241901 (2010).
