@@ -13,21 +13,20 @@ author_profile: true
 <br><br><br><br><br>
 &nbsp;Mr. Owen George Bell<br>
 <p align="left">
-  <img src="/assets/profiles/Owen_Bell.jpg" style="float: left;height: 150px"/> 
-  <br><br><br><br><br>    
+  <img src="/assets/profiles/Owen_Bell.jpg" style="float: left;height: 150px"/>  
 </p>
 &nbsp;<owen2.bell@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/owen-bell-73760b271/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
 Research project:<br>
-*  Artificially structured materials for lithium sulphur batteries and thermally absorbing devices (Start Date: 01/10/2024)
+*  Artificially structured materials for lithium sulphur batteries and thermally absorbing devices (Start Date: 01/10/2024) <br>
 &nbsp;
 &nbsp;
 &nbsp;
 
 ## EDUCATION
 
-* B.Sc 2024 - Electrical & Electronic Engineering, Northumbria Univerisity, UK.
+* B.Sc 2024 - Electrical & Electronic Engineering, Northumbria Univerisity, UK. <br>
 
 ## RESEARCH AND WORK EXPERIENCES
 
@@ -40,8 +39,8 @@ https://arxiv.org/abs/2505.06627 <br>
 
 ## TEACHING EXPERIENCE
 
-*Academic assistant for module KD5066 - Communication Systems - 2024
-*Academic assistant for module KD6031 - Instrumkentation and Control of Dynamical Systems - 2025
+*Academic assistant for module KD5066 - Communication Systems - 2024 <br>
+*Academic assistant for module KD6031 - Instrumkentation and Control of Dynamical Systems - 2025 <br>
 
 ## SUPERVISION EXPERIENCE
 
