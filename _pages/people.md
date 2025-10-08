@@ -78,6 +78,7 @@ Research project:<br>
   <a href="https://www.researchgate.net/profile/Owen-Bell-7"><img src="https://www.researchgate.net/favicon.ico" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <a href="https://orcid.org/0009-0009-1913-9559"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_ORCID_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=59514033200"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_SCOPUS_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
+  <br>
 Research project:<br>
 *  Artificially structured materials for lithium sulphur batteries and thermally absorbing devices (Start Date: 01/10/2024)
 &nbsp;
