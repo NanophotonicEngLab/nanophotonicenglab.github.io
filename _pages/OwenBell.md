@@ -10,7 +10,6 @@ author_profile: true
 
 ## PhD Student
 
-<br><br><br><br><br>
 &nbsp;Mr. Owen George Bell<br>
 <p align="left">
   <img src="/assets/profiles/Owen_Bell.jpg" style="float: left;height: 150px"/>  
@@ -30,17 +29,17 @@ Research project:<br>
 
 ## RESEARCH AND WORK EXPERIENCES
 
-*	Recent advances in Surface Functionalised 3D Electrocatalyst for Water Splitting
+*	 Recent advances in Surface Functionalised 3D Electrocatalyst for Water Splitting
 https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aesr.202400258 <br>
-* Conformally-coated Nickel-Carbon Nitride on Structured Pyrolytic Carbon Electrodes for Enhanced Hydrogen Evolution 
+*  Conformally-coated Nickel-Carbon Nitride on Structured Pyrolytic Carbon Electrodes for Enhanced Hydrogen Evolution 
 https://arxiv.org/abs/2505.06627 <br>
 ## AWARDS & HONOURS
 
 
 ## TEACHING EXPERIENCE
 
-*Academic assistant for module KD5066 - Communication Systems - 2024 <br>
-*Academic assistant for module KD6031 - Instrumkentation and Control of Dynamical Systems - 2025 <br>
+*  Academic assistant for module KD5066 - Communication Systems - 2024 <br>
+*  Academic assistant for module KD6031 - Instrumkentation and Control of Dynamical Systems - 2025 <br>
 
 ## SUPERVISION EXPERIENCE
 
