@@ -67,7 +67,7 @@ Research project:<br>
 &nbsp;
   <br><br>
 <p align="center">
-  <img src="/assets/profiles/Owen Bell-30062024.png" style="float: left;height: 150px"/> 
+  <img src="/assets/profiles/Owen_Bell.png" style="float: left;height: 150px"/> 
   <br><br><br><br><br>    
 </p>
 &nbsp; [Mr. Owen George Bell]({% link _pages/OwenBell.md %})<br>
