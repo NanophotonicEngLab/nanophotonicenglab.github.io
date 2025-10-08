@@ -73,7 +73,6 @@ Research project:<br>
 &nbsp; [Mr. Owen George Bell]({% link _pages/OwenBell.md %})<br>
 &nbsp;<owen2.bell@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/owen-bell-73760b271/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
-  <br><br>
   <a href="https://researchportal.northumbria.ac.uk/en/persons/owen-bell"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://scholar.google.com/citations?hl=en&user=1K8Oc5IAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <a href="https://www.researchgate.net/profile/Owen-Bell-7"><img src="https://www.researchgate.net/favicon.ico" style="width: 2.5%; border: none; text-decoration: none"/></a>
