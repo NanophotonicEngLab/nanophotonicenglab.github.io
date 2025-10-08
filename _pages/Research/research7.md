@@ -29,6 +29,7 @@ The planning system mainly encompasses two parts:
 *Publications:*
 
 1. G. Bhattacharya, I. Lionadi, M.P.C. Taverne, J. McLaughlin, P. Fernandez-Ibanez, C.-C. Huang*, Y.-L. D. Ho*, A. F. Payam*, "Two Dimensional-Material-Coated Microcantilevers for Enhanced Mass Sensing and Material Characterization," Nanoscale (2025), [Accepted Manuscript](https://doi.org/10.1039/D5NR03147H).
+2. J. A. G. Clet, Y.-S. Lin, C.-H. Weng, Y.-L. D. Ho, C.-C. Huang, S. Yan, "Development of a Simplified Mock Circulation Loop for Cardiovascular Flow Measurement," 15th Biomedical Engineering International Conference, BMEiCON 2023, Tokyo, Japan, 23-10-28. (https://doi.org/10.1109/BMEiCON60347.2023.10321995).
    
 *Collaborators:*
 
