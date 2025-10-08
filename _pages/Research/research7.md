@@ -26,6 +26,10 @@ The planning system mainly encompasses two parts:
 1. [Additive Micro/Nano-manufacturing of Structured Piezoelectric Active Materials for Intelligent Stent Monitoring](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y003551/1) – PI: Dr. Ying-Lung Daniel Ho (Northumbria University); Co-I: Dr. Shuangyi Yan (University of Bristol); Partners: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology), Dr. Hao Zeng, Dr. Hongshuang Guo (Tampere University), Dr. Quang Minh Ngo (Vietnam Academy of Science and Technology), Dr. Kevin Chung-Che Huang (University of Southampton), funded by the EPSRC grant no. [EP/Y003551/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y003551/1), value (£): 161,161.25 (FEC 100%), 01/04/2024 – 31/03/2026.
 2. [Additive Nano-Manufacturing of Multi-Functional Materials for Smart Stents Sensing](https://healthylongevitychallenge.org/winners/additive-nano-manufacturing-of-multi-functional-materials-for-smart-stents-sensing/) ([2022 Academia Sinica Catalyst Award Competition](https://healthylongevity.sinica.edu.tw/) – PI: Dr. Yu-Sheng Lin (Southern Taiwan University of Science and Technology); Co-PIs: Dr. Ying-Lung Daniel Ho (Northumbria University), Dr. Kevin Chung-Che Huang (University of Southampton), Dr. Shuangyi Yan (University of Bristol), and Dr. Chen-Hsun Weng (National Cheng Kung University), funded by the [Academia Sinica of Taiwan – 2022 Healthy Longevity Grand Challenge Competition Winners](https://healthylongevity.sinica.edu.tw/file/Taiwans_2022_Catalyst_Awardees.pdf), value (US$): 100,000, 01/09/2022 – 31/08/2024.
 
+*Publications:*
+
+1. G. Bhattacharya, I. Lionadi, M.P.C. Taverne, J. McLaughlin, P. Fernandez-Ibanez, C.-C. Huang*, Y.-L. D. Ho*, A. F. Payam*, "Two Dimensional-Material-Coated Microcantilevers for Enhanced Mass Sensing and Material Characterization," Nanoscale (2025), [Accepted Manuscript](https://doi.org/10.1039/D5NR03147H).
+   
 *Collaborators:*
 
 * [Dr. Yu-Sheng Lin](https://mech.stust.edu.tw/Sysid/mech_en/eng_tec/Yu-Sheng_Lin.htm)
