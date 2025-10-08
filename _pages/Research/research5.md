@@ -23,7 +23,7 @@ This project involves 3D phoamtonics (derived from the terms ‘foam’ and ‘p
 * Title: Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
 
 *Publications:*
-  
+1. N. Meethale Palakkool, M. P. C. Taverne, O. G. Bell, C. P. Jones, J. D. Mar, D. T. Ho, V. Barrioz, Y. Qu, C.-C. Huang*, Y.-L. D. Ho*, “Conformally-Coated Nickel-Carbon Nitride on Structured Pyrolytic Carbon Electrodes for Enhanced Hydrogen Evolution,” [arXiv preprint arXiv:2505.06627](https://arxiv.org/abs/2505.06627)
+   
 *Collaborators:*
-
 * [Dr. Kevin Chung-Che Huang](https://www.southampton.ac.uk/people/5x2czv/doctor-kevin-chung-che-huang)
