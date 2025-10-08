@@ -75,7 +75,7 @@ Research project:<br>
   <a href="https://www.linkedin.com/in/owen-bell-73760b271/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
 Research project:<br>
-*  Engineering Hyperuniform Disordered Architectures for Enhanced Thermal Absorption (Start Date: 01/10/2024)
+*  Artificially structured materials for lithium sulphur batteries and thermally absorbing devices (Start Date: 01/10/2024)
 &nbsp;
 &nbsp;
 &nbsp;
