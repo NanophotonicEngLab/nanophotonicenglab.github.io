@@ -12,6 +12,7 @@ author_profile: true
 
 <br><br><br><br><br>
 &nbsp;Mr. Owen George Bell<br>
+({% link _pages/OwenBell.md %})<br>
 &nbsp;<owen2.bell@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/owen-bell-73760b271/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
