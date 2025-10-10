@@ -9,3 +9,6 @@ Created using:
 
 Guide on setting up a Jekyll website with Github:
 * https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+
+See also:
+* https://github.com/nanophotonicenglab-resources
