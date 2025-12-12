@@ -1,6 +1,7 @@
 ---
 layout: post
 title: title subdir
+permalink: /subdir_example/
 ---
 __Advertisement :)__
 
