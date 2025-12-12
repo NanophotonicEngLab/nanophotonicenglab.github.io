@@ -1,4 +1,6 @@
 ---
+layout: post
+title: title subdir
 ---
 __Advertisement :)__
 
