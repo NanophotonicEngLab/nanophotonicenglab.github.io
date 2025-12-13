@@ -12,7 +12,7 @@ main:
     url: /Facilities/
   - title: "Publications"
     url: /Publications/
-    - title: "Events"
+  - title: "Events"
     url: /Events"/
   - title: "Resources"
     url: /Resources/
@@ -20,7 +20,7 @@ main:
     url: /Opportunities/
   - title: "Contact"
     url: /Contact/
-    
+
 docs:
   - title: "Nanophotonics"
     children:
