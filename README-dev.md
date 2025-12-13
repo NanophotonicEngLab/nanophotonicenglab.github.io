@@ -80,8 +80,7 @@ TODO
 * https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 * Fix warning: 
     The github-pages gem can't satisfy your Gemfile's dependencies. If you want to use a different Jekyll version or need additional dependencies, consider building Jekyll site with GitHub Actions: https://jekyllrb.com/docs/continuous-integration/github-actions/
-* update published arxiv papers (cf news page).
-* doc for PCs without admin rights
-* fix any errors/warning in logs. Example:
-    Error: could not read file /github/workspace/_staff_members/PA3: undefined method `split' for nil
+* Update published arxiv papers (cf news page).
+* Doc for PCs without admin rights.
+* Fix any errors/warning in logs.
 * image slideshows and other fancy features?
