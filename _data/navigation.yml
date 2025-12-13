@@ -12,6 +12,8 @@ main:
     url: /Facilities/
   - title: "Publications"
     url: /Publications/
+    - title: "Events"
+    url: /Events"/
   - title: "Resources"
     url: /Resources/
   - title: "Opportunities"

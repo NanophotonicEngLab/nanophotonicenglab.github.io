@@ -80,7 +80,7 @@ Research project:<br>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=59514033200"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/logo_SCOPUS_only.svg" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
 Research project:<br>
-*  Artificially structured materials for lithium sulphur batteries and thermally absorbing devices (Start Date: 01/10/2024)
+*  Artificially Structured Materials for Lithium–Sulphur Batteries (Start Date: 01/10/2024)
 &nbsp;
 &nbsp;
 &nbsp;
@@ -100,7 +100,7 @@ Research project:<br>
 &nbsp;
 &nbsp;
 
-## Master's students
+<!--## Master's students
 
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
@@ -113,8 +113,9 @@ Research project:<br>
 &nbsp;
 &nbsp;
 &nbsp;
-
-## Undergraduate students
+-->
+  
+<!--## Undergraduate students
 
 <p align="center">
    <img src="/assets/profiles/Daniel Rezaie.jpg" style="float: left;height: 120px"/>
@@ -139,6 +140,7 @@ Research project:<br>
 &nbsp;
 &nbsp;
 &nbsp;
+-->
 
 <!--
 <p align="center">
