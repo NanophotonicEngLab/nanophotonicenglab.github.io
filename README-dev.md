@@ -80,7 +80,6 @@ TODO
 * https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 * Fix warning: 
     The github-pages gem can't satisfy your Gemfile's dependencies. If you want to use a different Jekyll version or need additional dependencies, consider building Jekyll site with GitHub Actions: https://jekyllrb.com/docs/continuous-integration/github-actions/
-* Update published arxiv papers (cf news page).
 * Doc for PCs without admin rights.
 * Fix any errors/warning in logs.
 * image slideshows and other fancy features?
