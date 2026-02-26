@@ -50,7 +50,7 @@ Research projects:<br>
 *  3D Nanophotonics in Artificially Structured Chalcogenide Materials<br> 
 *  Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption
 
-## PhD Students
+## Post-Doctoral Research Assistant (PDRA)
 
 <p align="center">
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
@@ -61,16 +61,19 @@ Research projects:<br>
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <br><br>
 Research project:<br>
-*  Strategic Approach towards Hydrogen Economy via 3D Structured Electrode Designs (Start Date: 01/03/2022)
+*  Development of novel structured 3D-printed electrocatalysts for hydrogen evolution reaction (Start Date: 01/03/2022 - 03/11/2025)
 &nbsp;
 &nbsp;
 &nbsp;
   <br><br>
+
+## PhD Students
+
 <p align="center">
-  <img src="/assets/profiles/Owen_Bell.jpg" style="float: left;height: 150px"/> 
+  <a href="{% link _pages/OwenBell.md %}"><img src="/assets/profiles/Owen_Bell.jpg" style="float: left;height: 150px"/></a> 
   <br><br><br><br><br>    
 </p>
-&nbsp; [Mr. Owen George Bell]({% link _pages/OwenBell.md %})<br>
+&nbsp;[Mr. Owen George Bell]({% link _pages/OwenBell.md %})<br>
 &nbsp;<owen2.bell@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/owen-bell-73760b271/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
   <a href="https://researchportal.northumbria.ac.uk/en/persons/owen-bell"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
@@ -85,7 +88,7 @@ Research project:<br>
 &nbsp;
 &nbsp;
 
-## <!--## External PhD Students-->
+<!--## Graduated PhD Students
 
 <p align="center">
    <img src="/assets/profiles/Yu-Shao Chen.png" style="float: left;height: 150px"/>
@@ -95,10 +98,11 @@ Research project:<br>
 &nbsp;<ag19934@bristol.ac.uk><br> 
   <br>
 Research project:<br>
-*  Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019)
+*  Three-Dimensional Nanostructures for Nanophotonics (Start Date: 01/10/2019 - 31/09/2025)
 &nbsp;
 &nbsp;
 &nbsp;
+-->
 
 <!--## Master's students
 
