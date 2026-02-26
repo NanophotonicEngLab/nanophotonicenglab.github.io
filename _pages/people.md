@@ -13,7 +13,7 @@ author_profile: true
 <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
   <a href="https://nanophotonicenglab.github.io/Y-L-Daniel-Ho/"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
  -->
-  <a href="{% link _pages/Y-L-Daniel-Ho.md %}"><img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/></a> 
+  <a href="{% link _pages/Y-L-Daniel-Ho.md %}"><img src="/assets/profiles/DH-LINKEDIN.png" style="float: left;height: 150px"/></a> 
   <br><br><br><br><br>    
 </p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
