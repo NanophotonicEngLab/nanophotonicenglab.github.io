@@ -9,7 +9,7 @@ author_profile: true
 
 ## Principal Investigator
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/DH-LINKEDIN.jfif" style="float: left;height: 120px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/DH-LINKEDIN.png" style="float: left;height: 120px"/>
 <br><br><br><br><br>
 &nbsp;Dr. Y.-L. Daniel Ho<br>
 &nbsp;ELE306<br>
