@@ -65,6 +65,7 @@ Research projects:<br>
 *  MSc Hydrochemistry: School of Marine Sciences, Cochin University of Science and Technology, India. April 2020: Master’s thesis titled “fabrication of flexible     supercapacitor using bio-waste derived activated carbon”.<br>
 *  BSc Polymer Chemistry: Kannur University, India. May 2018: Dissertation titled “ purification of wastewater using nanoparticles derived from organic acids”.<br>
 <br>
+  &nbsp;
 Teaching Experience: <br>
 Post Graduate Department of Chemistry, MET Arts and Science College, Affiliated to Calicut University, Kerala, India. Assistant Professor (Contract):<br>
 *  Delivered lectures for undergraduate and postgraduate chemistry students.<br>
@@ -72,10 +73,13 @@ Post Graduate Department of Chemistry, MET Arts and Science College, Affiliated 
 *  Prepared and presented course materials, including lectures, lab manuals, and assignments.<br>
 *  Supervised and guided students during laboratory sessions, ensuring safety and correct equipment handling.<br>
 <br>
+  &nbsp;
 Awards<br>
 *  Awarded the competitive Research Development Fund (RDF) Studentship at Northumbria University for PhD research in sustainable energy Northumbria University,       Newcastle<br>
 *  Poster prize award<br>
-*  Society of Chemical Industry: Electrochemistry Postgraduate Conference 2025 at Northumbria University<br>
+*  Society of Chemical Industry: Electrochemistry Postgraduate Conference 2025 at Northumbria University
+  &nbsp;
+  <br>
 <br>
 
 Research project:<br>
