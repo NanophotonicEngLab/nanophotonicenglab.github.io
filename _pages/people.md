@@ -66,7 +66,7 @@ Research projects:<br>
 *  BSc Polymer Chemistry: Kannur University, India. May 2018: Dissertation titled “ purification of wastewater using nanoparticles derived from organic acids”.<br>
 <br>
 Teaching Experience: <br>
-*  Post Graduate Department of Chemistry, MET Arts and Science College, Affiliated to Calicut University, Kerala, India. Assistant Professor (Contract):<br>
+Post Graduate Department of Chemistry, MET Arts and Science College, Affiliated to Calicut University, Kerala, India. Assistant Professor (Contract):<br>
 *  Delivered lectures for undergraduate and postgraduate chemistry students.<br>
 *  Taught courses including NMR spectroscopy, asymmetric organic synthesis, main group elements, and quantum chemistry.<br>
 *  Prepared and presented course materials, including lectures, lab manuals, and assignments.<br>
