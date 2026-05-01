@@ -18,7 +18,7 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images-v5.png" alt="">
 
 ## Nanophotonic Engineering Laboratory (NEL)
-*The Nanophotonic Engineering Laboratory, established within the Department of Mathematics, Physics, and Electrical Engineering at Northumbria University in September 2019, is dedicated to cutting-edge research in several exciting areas
+*The Nanophotonic Engineering Laboratory, established within the School of Engineering, Physics and Mathematics at Northumbria University in September 2019, is dedicated to cutting-edge research in several exciting areas
 including quantum nanophotonic engineering, and artificially-structured multi-functional materials for energy and bio-medical applications.*  
 
 ## Events
