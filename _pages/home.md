@@ -18,8 +18,7 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images-v5.png" alt="">
 
 ## Nanophotonic Engineering Laboratory (NEL)
-*The Nanophotonic Engineering Laboratory, established within the School of Engineering, Physics and Mathematics at Northumbria University in September 2019, is dedicated to cutting-edge research in several exciting areas
-including quantum nanophotonic engineering, and artificially-structured multi-functional materials for energy and bio-medical applications.*  
+*The Nanophotonic Engineering Laboratory (NEL), founded in September 2019 in the School of Engineering, Physics and Mathematics at Northumbria University, provides an integrated research platform for quantum nanophotonic engineering and the creation of advanced multifunctional materials targeting quantum technologies, energy systems, and biomedical applications. All members of NEL are drawn from the Space Systems and Technology Research Group at the [North East Space Skills and Technology Centre (NESST)](https://www.northumbria.ac.uk/business-services/research-and-consultancy/space/nesst/), ensuring tight integration between fundamental photonic materials research and space‑relevant systems engineering. This embedded structure enables rapid translation of nanophotonic innovations into resource‑constrained and space‑enabled technologies.*  
 
 ## Events
 * 15-12-2025: [2nd EPSRC International Collaboration Networking Workshop]({% link _pages/events/2nd_EPSRC_International_Collaboration_Networking_Workshop.md %})
