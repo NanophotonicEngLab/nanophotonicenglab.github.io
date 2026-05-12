@@ -16,9 +16,9 @@ sidebar:
   * White light source:
     * Thorlabs OSL2 : 400-1600 nm
   * Lasers:
-    * Leukos Samba 450 - Supercontinuum Laser: 200-2400 nm
-    * Gem 532 – Solid State Continuous Wave Laser: 532 nm
-    * PIL051-FS – Picosecond Pulsed Diode Laser: 510 nm
+    * Leukos Samba 450 - Supercontinuum Laser: 200-2400 nm, 300 mW
+    * Gem 532 – Solid State Continuous Wave Laser: 532 nm, 500 mW
+    * PIL051-FS – Picosecond Pulsed Diode Laser: 510 nm, Max pulse energy: 100pJ, Pulse length: <100ps, Repetition rate: 40MHz
    * Spectrometers:
        * Visible range: HR4PRO-VIS-NIR-ES unit with L4 lens and an OSF: 350-1025 nm (Actual spectrometer output: 345.038-1034.95)
        * Infrared range: NanoQuest NANOQ-2.5 (MEMS-Based FT-NIR spectral sensor): 1350-2500 nm (Actual spectrometer output: 1300-2601)   
