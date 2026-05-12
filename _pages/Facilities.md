@@ -12,14 +12,16 @@ sidebar:
   * [Fourier Image Spectroscopy]({% link _pages/Facilities/FIS.md %})
   * [Confocal microscope]({% link _pages/Facilities/confocal.md %})
   * [Fourier Image Spectroscopy + Heating stage]({% link _pages/Facilities/FIS+heat_vertical.md %})
-* Equipment 
+* Equipment
+  * White light source:
+    * Thorlabs OSL2 : 400-1600 nm
   * Lasers:
-    * Samba - Supercontinuum Laser
-    * gem 532 – Solid State Continuous Wave Laser (532nm)
-    * PIL051-FS – Picosecond Pulsed Diode Laser (510nm)
+    * Leukos Samba 450 - Supercontinuum Laser: 200-2400 nm
+    * Gem 532 – Solid State Continuous Wave Laser: 532 nm
+    * PIL051-FS – Picosecond Pulsed Diode Laser: 510 nm
    * Spectrometers:
-       * HR4PRO-VIS-NIR-ES
-       * NANOQ-2.5 (NanoQuest - MEMS-Based FT-IR Sensor)
+       * Visible range: HR4PRO-VIS-NIR-ES unit with L4 lens and an OSF: 350-1025 nm (Actual spectrometer output: 345.038-1034.95)
+       * Infrared range: NanoQuest NANOQ-2.5 (MEMS-Based FT-NIR spectral sensor): 1350-2500 nm (Actual spectrometer output: 1300-2601)   
    * Microscope Heating and Cooling Stages:
        * Linkam TS1000EV high temperature heating stages with internal electrical contacts & vacuum ports.
    *  Potentiostat / Galvanostat / Impedance Analyzer:
