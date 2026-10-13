@@ -26,18 +26,28 @@ author_profile: true
 * Master’s degree in subatomic physics and astroparticles, Louis Pasteur University, Strasbourg, France, 2008 (light-matter interactions, detection systems, elementary particles and fields, etc).
 * Engineering degree, Télécom Physique Strasbourg (formerly known as Ecole Nationale Supérieure de Physique de Strasbourg/National School of Higher Education in Physics of Strasbourg), Strasbourg, France, 2007 (included courses on embedded systems and electronic CAD using VHDL)
 
+## CERTIFICATIONS AND TRAINING
+
+* Certified Carpentries Instructor, [The Carpentries](https://carpentries.org/) (Data, Library and Software Carpentry), January 2025.
+* [Software tools and practices for open and reproducible research](https://carpentries-incubator.github.io/fair-research-software/) workshop, organised by the [Software Sustainability Institute](https://www.software.ac.uk/) and funded by the [UK Reproducibility Network](https://www.ukrn.org/), 1-4 April 2025.
+* IBM Quantum Explorer 2023: Intermediate badge, IBM, March 2024 ([verify](https://www.credly.com/go/e5fp4SjZ)).
+
 ## RESEARCH AND WORK EXPERIENCES
 
-* Research Fellow, Dept. of Mathematics, Physics and Electrical Engineering, Northumbria University, 01/09/2021  –  present
+* Research Fellow, School of Engineering, Physics and Mathematics, Northumbria University, 01/09/2021  –  present
 * Honorary Research Associate, School of Electrical, Electronic and Mechanical Engineering, University of Bristol, 01/09/2021  –  present
 * Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, 01/01/2016  –  31/08/2021
-* Software engineer (Development of mesh generation software for CFD applications, Engineering consultancy), enGits GmbH, Germany, 2009 to 2010
+* Software engineer (Development of mesh generation software for CFD applications, Engineering consultancy), enGits GmbH, Germany, 2009 to 2010. Core contributor to the open-source [enGrid](https://github.com/enGits/engrid) mesh generator (C++/Qt/VTK; over 1,000 commits) and helped manage the company's main server.
 
 ## TEACHING EXPERIENCE
 
+* Practical sessions for the [“Optical Communications System” module (KD7064)](https://www.northumbria.ac.uk/study-at-northumbria/courses/microelectronic-and-communication-engineering-msc-ft-dtfmiz6/modules/kd7064-optical-communications-system/2025/) (practical optical experiments), University of Northumbria, March - April 2026
+* Teaching and practical sessions for the [“Digital Electronics and Communications” module (KD4009)](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd4009-digital-electronics-and-communications&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2025), involving signal processing using LabVIEW, University of Northumbria, November 2025 - March 2026
+* Helper, ["Introduction to Using the Shell in a HPC Context"](https://epcced.github.io/2024-11-18-archer2-hpc-shell/) and ["ARCHER2 Introduction to HPC"](https://epcced.github.io/2024-11-19-archer2-hpc-intro/) courses (Carpentries Incubator lessons, EPCC), November 2024
 * Practical sessions on [Logisim](https://github.com/logisim-evolution/logisim-evolution) for the ["Digital Electronics and Communications" module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd4009-digital-electronics-and-communications&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2025), University of Northumbria, October - December 2024
+* Student project supervision, University of Northumbria, 2021 - present
 * Seminars for the “Instrumentation Systems” section of the [“Instrumentation and Control of Dynamical Systems” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd6031-instrumentation-and-control-of-dynamical-systems&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2023), University of Northumbria, February 2022
-* Lectures and practical sessions for the “Simulation: Photonic crystals and waveguides” section of the [“Quantum Devices” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/physics-mphys-ft-uusics1?moduleslug=kd6041-quantum-devices&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D&y=2022), University of Northumbria, September - December 2021
+* Lectures and practical sessions for the “Simulation: Photonic crystals and waveguides” section of the [“Quantum Devices” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/physics-mphys-ft-uusics1?moduleslug=kd6041-quantum-devices&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D&y=2022) (simulation with MEEP, MPB and a Python TMM module), University of Northumbria, September - December 2021
 * Quantum Device Engineering Guest Lecture on Photonic crystals, University of Bristol, March 2020
 * Lumerical workshop in the Advanced Optoelectronic Devices unit of the Optical Communications and Signal Processing MSc, University of Bristol, March 2019
 * Cross disciplinary teaching class: “Design, Fabrication, and Characterization of Wavelength-scale Structures”, National Cheng Kung University, Taiwan, July 2-6, 2018
@@ -45,8 +55,8 @@ author_profile: true
 
 ## AWARDS & HONOURS
 
-* Fellow of the Higher Education Academy (FHEA) 2024, Higher Education Academy, UK.
-* Associate Fellow of the Higher Education Academy (AFHEA) 2021, Higher Education Academy, UK.
+* Fellow of the Higher Education Academy (FHEA) 2024, Advance HE, UK.
+* Associate Fellow of the Higher Education Academy (AFHEA) 2021, Advance HE, UK.
 * PhD studentship was funded through EPSRC.
 * Baccalauréat S (scientific section) with honours (mention “très bien”), Lycée Alexandre Dumas, Port-au-Prince, Haïti, 2001.
 
