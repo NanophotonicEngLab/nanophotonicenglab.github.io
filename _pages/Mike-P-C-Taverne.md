@@ -41,13 +41,13 @@ author_profile: true
 
 ## TEACHING EXPERIENCE
 
+* Student project supervision, University of Northumbria, 2021 - present
 * Practical sessions for the [“Optical Communications System” module (KD7064)](https://www.northumbria.ac.uk/study-at-northumbria/courses/microelectronic-and-communication-engineering-msc-ft-dtfmiz6/modules/kd7064-optical-communications-system/2025/) (practical optical experiments), University of Northumbria, March - April 2026
 * Teaching and practical sessions for the [“Digital Electronics and Communications” module (KD4009)](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd4009-digital-electronics-and-communications&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2025), involving signal processing using LabVIEW, University of Northumbria, November 2025 - March 2026
 * Helper, ["Introduction to Using the Shell in a HPC Context"](https://epcced.github.io/2024-11-18-archer2-hpc-shell/) and ["ARCHER2 Introduction to HPC"](https://epcced.github.io/2024-11-19-archer2-hpc-intro/) courses (Carpentries Incubator lessons, EPCC), November 2024
 * Practical sessions on [Logisim](https://github.com/logisim-evolution/logisim-evolution) for the ["Digital Electronics and Communications" module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd4009-digital-electronics-and-communications&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2025), University of Northumbria, October - December 2024
 * Seminars for the “Instrumentation Systems” section of the [“Instrumentation and Control of Dynamical Systems” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/meng-hons-electrical-and-electronic-engineering-uusmge1?moduleslug=kd6031-instrumentation-and-control-of-dynamical-systems&alttemplate=df847541-4f68-426a-8940-4c60ff4c5262&y=2023), University of Northumbria, February 2022
 * Lectures and practical sessions for the “Simulation: Photonic crystals and waveguides” section of the [“Quantum Devices” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/physics-mphys-ft-uusics1?moduleslug=kd6041-quantum-devices&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D&y=2022) (simulation with MEEP, MPB and a Python TMM module), University of Northumbria, September - December 2021
-* Student project supervision, University of Northumbria, 2021 - present
 * Quantum Device Engineering Guest Lecture on Photonic crystals, University of Bristol, March 2020
 * Lumerical workshop in the Advanced Optoelectronic Devices unit of the Optical Communications and Signal Processing MSc, University of Bristol, March 2019
 * Cross disciplinary teaching class: “Design, Fabrication, and Characterization of Wavelength-scale Structures”, National Cheng Kung University, Taiwan, July 2-6, 2018
