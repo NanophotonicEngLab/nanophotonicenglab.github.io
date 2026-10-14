@@ -50,46 +50,16 @@ Research projects:<br>
 *  3D Nanophotonics in Artificially Structured Chalcogenide Materials<br> 
 *  Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption
 
-## Post-Doctoral Research Assistant (PDRA)
+[![](https://nanophotonicenglab.github.io/assets/profiles/profile_im_NH.jpg)](https://nanophotonicenglab.github.io/Nadira-Meethale-Palakkool/)  
 
-<p align="center">
-  <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
-  <br><br><br><br><br>    
-</p>
-&nbsp;Miss. Nadira Meethale Palakkool<br>
-&nbsp;<nadira.p@northumbria.ac.uk><br> 
-  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
-  <br><br>
-  Education<br>
-*  PhD Electrical Engineering: School of Physics, Mathematics and Electrical Engineering, Northumbria University Newcastle, UK. Viva passed.<br>
-*  MSc Hydrochemistry: School of Marine Sciences, Cochin University of Science and Technology, India. April 2020: Master’s thesis titled “fabrication of flexible     supercapacitor using bio-waste derived activated carbon”.<br>
-*  BSc Polymer Chemistry: Kannur University, India. May 2018: Dissertation titled “ purification of wastewater using nanoparticles derived from organic acids”.<br>
-<br>
-  &nbsp;
-Teaching Experience: <br>
-Post Graduate Department of Chemistry, MET Arts and Science College, Affiliated to Calicut University, Kerala, India. Assistant Professor (Contract):<br>
-*  Delivered lectures for undergraduate and postgraduate chemistry students.<br>
-*  Taught courses including NMR spectroscopy, asymmetric organic synthesis, main group elements, and quantum chemistry.<br>
-*  Prepared and presented course materials, including lectures, lab manuals, and assignments.<br>
-*  Supervised and guided students during laboratory sessions, ensuring safety and correct equipment handling.<br>
-<br>
-  &nbsp;
-Awards<br>
-*  Awarded the competitive Research Development Fund (RDF) Studentship at Northumbria University for PhD research in sustainable energy Northumbria University,       Newcastle<br>
-*  Poster prize award<br>
-*  Society of Chemical Industry: Electrochemistry Postgraduate Conference 2025 at Northumbria University
-  &nbsp;
-  <br>
-<br>
+ [Dr. Nadira Meethale Palakkool](https://nanophotonicenglab.github.io/Nadira-Meethale-Palakkool/)  
+<nadira.p@northumbria.ac.uk>  
+[![](https://nanophotonicenglab.github.io/assets/profiles/linkedin.png)](https://www.linkedin.com/in/nadira-hameed94/) [![](https://nanophotonicenglab.github.io/assets/profiles/nuw.png)](https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool/)  
 
-Research project:<br>
-*  Development of novel structured 3D-printed electrocatalysts for hydrogen evolution reaction (Start Date: 01/03/2022 - 03/11/2025)
-&nbsp;
-&nbsp;
-&nbsp;
-  <br><br>
-Links<br>
-Northumbria University: https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool/ <br>
+Research projects:  
+
+- Development of novel structured 3D-printed electrocatalysts for hydrogen evolution reaction (Start Date: 01/03/2022 - 03/11/2025)
+
 ## PhD Students
 
 <p align="center">
