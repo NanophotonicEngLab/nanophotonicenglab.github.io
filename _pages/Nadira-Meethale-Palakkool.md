@@ -1,5 +1,5 @@
 ---
-title:  "Post-Doctoral Research Assistant (PDRA)"
+title:  "Research Fellow"
 #layout: collection
 layout: splash
 permalink: /Nadira-Meethale-Palakkool/
@@ -7,13 +7,14 @@ author_profile: true
 #comments: true
 ---
 
-## Post-Doctoral Research Assistant (PDRA)
+## Research Fellow
 
-![](https://nanophotonicenglab.github.io/assets/profiles/profile_im_NH.jpg)  
-
-Dr. Nadira Meethale Palakkool  
-<nadira.p@northumbria.ac.uk>  
-[![](https://nanophotonicenglab.github.io/assets/profiles/linkedin.png)](https://www.linkedin.com/in/nadira-hameed94/) [![](https://nanophotonicenglab.github.io/assets/profiles/nuw.png)](https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool/)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_NH.jpg" style="float: left;height: 120px"/>
+<br><br><br><br><br>
+&nbsp;Dr. Nadira Meethale Palakkool<br>
+&nbsp;<nadira.p@northumbria.ac.uk><br>
+&nbsp;<a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
+<a href="https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 
 ## EDUCATION
 

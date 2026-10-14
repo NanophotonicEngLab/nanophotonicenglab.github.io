@@ -49,16 +49,24 @@ author_profile: true
 Research projects:<br>  
 *  3D Nanophotonics in Artificially Structured Chalcogenide Materials<br> 
 *  Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption
+&nbsp;
+&nbsp;
+&nbsp;
 
-[![](https://nanophotonicenglab.github.io/assets/profiles/profile_im_NH.jpg)](https://nanophotonicenglab.github.io/Nadira-Meethale-Palakkool/)  
-
- [Dr. Nadira Meethale Palakkool](https://nanophotonicenglab.github.io/Nadira-Meethale-Palakkool/)  
-<nadira.p@northumbria.ac.uk>  
-[![](https://nanophotonicenglab.github.io/assets/profiles/linkedin.png)](https://www.linkedin.com/in/nadira-hameed94/) [![](https://nanophotonicenglab.github.io/assets/profiles/nuw.png)](https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool/)  
-
-Research projects:  
-
-- Development of novel structured 3D-printed electrocatalysts for hydrogen evolution reaction (Start Date: 01/03/2022 - 03/11/2025)
+<p align="center">
+  <a href="{% link _pages/Nadira-Meethale-Palakkool.md %}"><img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/></a> 
+  <br><br><br><br><br>    
+</p>
+&nbsp;[Dr. Nadira Meethale Palakkool]({% link _pages/Nadira-Meethale-Palakkool.md %})<br>
+&nbsp;<nadira.p@northumbria.ac.uk><br> 
+  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
+  <a href="https://researchportal.northumbria.ac.uk/en/persons/nadira-meethale-palakkool/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
+  <br><br>
+Research project:<br>
+*  Development of novel structured 3D-printed electrocatalysts for hydrogen evolution reaction (Start Date: 01/03/2022 - 03/11/2025)
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## PhD Students
 
