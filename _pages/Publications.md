@@ -12,8 +12,10 @@ comments: true
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google-scholar.png" style="width: 10%; border: none; text-decoration: none"/>
 ## Preprints
 1. N. Meethale Palakkool, M. P. C. Taverne, O. G. Bell, C. P. Jones, J. D. Mar, D. T. Ho, V. Barrioz, Y. Qu, C.-C. Huang*, Y.-L. D. Ho*, “Conformally-Coated Nickel-Carbon Nitride on Structured Pyrolytic Carbon Electrodes for Enhanced Hydrogen Evolution,” [arXiv preprint arXiv:2505.06627](https://arxiv.org/abs/2505.06627)
+## 2026
+2. I. Lionadi, G. Bhattacharya, A. Ganguly, W. Arshad, P. Papakonstantinou, M.P.C. Taverne, E. Weatherby, C.-C. Huang, Y.-L. D. Ho, A. F. Payam, ["Quantifying Effective van der Waals Interactions Across Two-Dimensional Material Interfaces"](https://doi.org/10.1021/acsami.6c16186), ACS Appl. Mater. Interfaces (2026).
 ## 2025
-2. G. Bhattacharya, I. Lionadi, M.P.C. Taverne, J. McLaughlin, P. Fernandez-Ibanez, C.-C. Huang, Y.-L. D. Ho, A. F. Payam, "Two Dimensional-Material-Coated Microcantilevers for Enhanced Mass Sensing and Material Characterization," Nanoscale (2025), [Accepted Manuscript](https://doi.org/10.1039/D5NR03147H).
+2. G. Bhattacharya, I. Lionadi, M.P.C. Taverne, J. McLaughlin, P. Fernandez-Ibanez, C.-C. Huang, Y.-L. D. Ho, A. F. Payam, ["Two Dimensional-Material-Coated Microcantilevers for Enhanced Mass Sensing and Material Characterization"](https://doi.org/10.1039/D5NR03147H) 17, 27200–27215 (2025).
 3. Y.-S. Chen J., M. P. C. Taverne, C.-C. Huang, Y.-L. D. Ho, J. G. Rarity, ["Thermal Shrinkage-Induced Modifications in Photonic Bandgaps of Two-Photon Polymerized Bragg Reflectors"](https://doi.org/10.1002/adpr.202500077), Adv. Photonics Res., 2500077 (2025)
 4. N. M. Palakkool, M. P. C. Taverne, O. Bell, J. D. Mar, V. Barrioz, Y. Qu*, C.-C. Huang*, Y.-L. D. Ho*, ["Recent Advances in Surface Functionalized 3D Electrocatalyst for Water Splitting"](https://doi.org/10.1002/aesr.202400258), Advanced Energy and Sustainability Research, 6 (2), 2400258 (2025).
 ## 2024
